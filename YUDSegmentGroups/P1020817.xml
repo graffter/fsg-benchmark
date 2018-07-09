@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!----------------------------------------------------------------->
+<!-- Segment Clustering file. Generated Tue Feb 13 12:11:47 2018 -->
+<!----------------------------------------------------------------->
+<segment_clustering>
+    <image_size>640, 480</image_size>
+    <image_name>P1020817.jpg</image_name>
+    <segments numberOfSegments="657">
+        <segment>
+            <id>0</id>
+            <endpoints>[224.305, 12.0001, 203.332, 0.255725]</endpoints>
+        </segment>
+        <segment>
+            <id>1</id>
+            <endpoints>[210.524, 1.00132, 220.476, 3.67912]</endpoints>
+        </segment>
+        <segment>
+            <id>2</id>
+            <endpoints>[277.308, 0.607866, 276.862, 21.8747]</endpoints>
+        </segment>
+        <segment>
+            <id>3</id>
+            <endpoints>[279.658, 21.8767, 279.785, 0.619986]</endpoints>
+        </segment>
+        <segment>
+            <id>4</id>
+            <endpoints>[286.962, 0.520289, 307.553, 17.566]</endpoints>
+        </segment>
+        <segment>
+            <id>5</id>
+            <endpoints>[312.596, 18.5379, 291.124, 0.0454544]</endpoints>
+        </segment>
+        <segment>
+            <id>6</id>
+            <endpoints>[326.824, 2.75709, 336.976, 1.35758]</endpoints>
+        </segment>
+        <segment>
+            <id>7</id>
+            <endpoints>[338.477, 0.236306, 352.313, 12.771]</endpoints>
+        </segment>
+        <segment>
+            <id>8</id>
+            <endpoints>[446.86, 2.56536, 461.883, 2.16897]</endpoints>
+        </segment>
+        <segment>
+            <id>9</id>
+            <endpoints>[489.379, 0.639929, 473.141, 4.44145]</endpoints>
+        </segment>
+        <segment>
+            <id>10</id>
+            <endpoints>[505.654, 1.24991, 490.629, 1.95502]</endpoints>
+        </segment>
+        <segment>
+            <id>11</id>
+            <endpoints>[541.876, 195.672, 545.519, 0.553002]</endpoints>
+        </segment>
+        <segment>
+            <id>12</id>
+            <endpoints>[552.631, 0.611513, 539.585, 478.165]</endpoints>
+        </segment>
+        <segment>
+            <id>13</id>
+            <endpoints>[240.352, 2.3678, 225.878, 7.57795]</endpoints>
+        </segment>
+        <segment>
+            <id>14</id>
+            <endpoints>[451.291, 16.6315, 445.719, 1.38395]</endpoints>
+        </segment>
+        <segment>
+            <id>15</id>
+            <endpoints>[471.993, 3.85861, 452.106, 7.05822]</endpoints>
+        </segment>
+        <segment>
+            <id>16</id>
+            <endpoints>[494.133, 7.81125, 520.713, 3.69236]</endpoints>
+        </segment>
+        <segment>
+            <id>17</id>
+            <endpoints>[245.516, 13.3277, 233.653, 6.97394]</endpoints>
+        </segment>
+        <segment>
+            <id>18</id>
+            <endpoints>[477.051, 8.92667, 488.307, 6.45647]</endpoints>
+        </segment>
+        <segment>
+            <id>19</id>
+            <endpoints>[153.101, 9.21354, 164.471, 7.51873]</endpoints>
+        </segment>
+        <segment>
+            <id>20</id>
+            <endpoints>[282.942, 7.13883, 295.471, 15.8465]</endpoints>
+        </segment>
+        <segment>
+            <id>21</id>
+            <endpoints>[487.722, 33.7874, 468.753, 6.43969]</endpoints>
+        </segment>
+        <segment>
+            <id>22</id>
+            <endpoints>[517.495, 14.7116, 513.266, 6.79941]</endpoints>
+        </segment>
+        <segment>
+            <id>23</id>
+            <endpoints>[262.388, 24.1362, 245.453, 11.7911]</endpoints>
+        </segment>
+        <segment>
+            <id>24</id>
+            <endpoints>[74.2139, 20.7967, 151.849, 9.20022]</endpoints>
+        </segment>
+        <segment>
+            <id>25</id>
+            <endpoints>[224.889, 8.50286, 241.87, 18.5133]</endpoints>
+        </segment>
+        <segment>
+            <id>26</id>
+            <endpoints>[452.674, 8.45454, 466.182, 20.1739]</endpoints>
+        </segment>
+        <segment>
+            <id>27</id>
+            <endpoints>[493.943, 17.2685, 486.811, 9.43304]</endpoints>
+        </segment>
+        <segment>
+            <id>28</id>
+            <endpoints>[150.666, 12.1131, 135.473, 14.7452]</endpoints>
+        </segment>
+        <segment>
+            <id>29</id>
+            <endpoints>[281.603, 12.2834, 290.552, 18.2343]</endpoints>
+        </segment>
+        <segment>
+            <id>30</id>
+            <endpoints>[476.664, 11.2815, 481.662, 20.0329]</endpoints>
+        </segment>
+        <segment>
+            <id>31</id>
+            <endpoints>[351.854, 14.1841, 320.567, 17.5877]</endpoints>
+        </segment>
+        <segment>
+            <id>32</id>
+            <endpoints>[134.645, 15.0258, 128.427, 17.6041]</endpoints>
+        </segment>
+        <segment>
+            <id>33</id>
+            <endpoints>[128.1, 15.4518, 81.918, 22.1705]</endpoints>
+        </segment>
+        <segment>
+            <id>34</id>
+            <endpoints>[324.086, 22.6877, 357.878, 19.3663]</endpoints>
+        </segment>
+        <segment>
+            <id>35</id>
+            <endpoints>[247.159, 18.1384, 246.567, 30.6695]</endpoints>
+        </segment>
+        <segment>
+            <id>36</id>
+            <endpoints>[273.47, 23.6679, 262.931, 18.5214]</endpoints>
+        </segment>
+        <segment>
+            <id>37</id>
+            <endpoints>[356.973, 19.3994, 386.544, 46.1241]</endpoints>
+        </segment>
+        <segment>
+            <id>38</id>
+            <endpoints>[440.47, 32.661, 450.806, 18.255]</endpoints>
+        </segment>
+        <segment>
+            <id>39</id>
+            <endpoints>[522.278, 18.124, 522.32, 34.3771]</endpoints>
+        </segment>
+        <segment>
+            <id>40</id>
+            <endpoints>[300.591, 20.322, 280.561, 22.5478]</endpoints>
+        </segment>
+        <segment>
+            <id>41</id>
+            <endpoints>[301.784, 25.0377, 323.481, 21.6653]</endpoints>
+        </segment>
+        <segment>
+            <id>42</id>
+            <endpoints>[381.794, 34.4574, 367.322, 20.1721]</endpoints>
+        </segment>
+        <segment>
+            <id>43</id>
+            <endpoints>[271.964, 27.9267, 301.75, 25.3972]</endpoints>
+        </segment>
+        <segment>
+            <id>44</id>
+            <endpoints>[344.06, 21.8705, 343.862, 35.6356]</endpoints>
+        </segment>
+        <segment>
+            <id>45</id>
+            <endpoints>[495.647, 25.7473, 509.395, 23.2348]</endpoints>
+        </segment>
+        <segment>
+            <id>46</id>
+            <endpoints>[287.505, 39.5693, 262.472, 24.6255]</endpoints>
+        </segment>
+        <segment>
+            <id>47</id>
+            <endpoints>[307.329, 25.4121, 320.815, 35.7565]</endpoints>
+        </segment>
+        <segment>
+            <id>48</id>
+            <endpoints>[346.242, 35.6339, 346.083, 24.3685]</endpoints>
+        </segment>
+        <segment>
+            <id>49</id>
+            <endpoints>[484.374, 25.5946, 493.163, 25.1861]</endpoints>
+        </segment>
+        <segment>
+            <id>50</id>
+            <endpoints>[247.889, 28.1513, 310.873, 65.2034]</endpoints>
+        </segment>
+        <segment>
+            <id>51</id>
+            <endpoints>[230.688, 33.2881, 239.982, 29.693]</endpoints>
+        </segment>
+        <segment>
+            <id>52</id>
+            <endpoints>[327.06, 27.8949, 336.799, 35.72]</endpoints>
+        </segment>
+        <segment>
+            <id>53</id>
+            <endpoints>[241.457, 29.2577, 239.323, 36.8603]</endpoints>
+        </segment>
+        <segment>
+            <id>54</id>
+            <endpoints>[521.71, 31.4297, 467.104, 36.7353]</endpoints>
+        </segment>
+        <segment>
+            <id>55</id>
+            <endpoints>[249.218, 45.949, 218.012, 30.8585]</endpoints>
+        </segment>
+        <segment>
+            <id>56</id>
+            <endpoints>[279.707, 41.328, 263.399, 31.4238]</endpoints>
+        </segment>
+        <segment>
+            <id>57</id>
+            <endpoints>[106.216, 34.1124, 139.972, 47.2972]</endpoints>
+        </segment>
+        <segment>
+            <id>58</id>
+            <endpoints>[455.893, 49.0901, 439.13, 33.3078]</endpoints>
+        </segment>
+        <segment>
+            <id>59</id>
+            <endpoints>[465.638, 40.7741, 520.656, 35.9862]</endpoints>
+        </segment>
+        <segment>
+            <id>60</id>
+            <endpoints>[361.825, 37.7373, 373.208, 36.2675]</endpoints>
+        </segment>
+        <segment>
+            <id>61</id>
+            <endpoints>[522.253, 35.6133, 519.95, 206.9]</endpoints>
+        </segment>
+        <segment>
+            <id>62</id>
+            <endpoints>[299.402, 38.3709, 288.015, 39.6142]</endpoints>
+        </segment>
+        <segment>
+            <id>63</id>
+            <endpoints>[348.1, 38.9737, 355.648, 38.4974]</endpoints>
+        </segment>
+        <segment>
+            <id>64</id>
+            <endpoints>[286.921, 42.6188, 301.863, 41.6866]</endpoints>
+        </segment>
+        <segment>
+            <id>65</id>
+            <endpoints>[320.751, 41.8665, 320.703, 48.1256]</endpoints>
+        </segment>
+        <segment>
+            <id>66</id>
+            <endpoints>[331.871, 41.8817, 340.534, 47.0283]</endpoints>
+        </segment>
+        <segment>
+            <id>67</id>
+            <endpoints>[322.284, 66.975, 283.363, 42.7428]</endpoints>
+        </segment>
+        <segment>
+            <id>68</id>
+            <endpoints>[384.304, 44.5488, 359.33, 46.1977]</endpoints>
+        </segment>
+        <segment>
+            <id>69</id>
+            <endpoints>[140.443, 47.4344, 157.373, 52.9375]</endpoints>
+        </segment>
+        <segment>
+            <id>70</id>
+            <endpoints>[177.072, 44.9969, 181.626, 46.4219]</endpoints>
+        </segment>
+        <segment>
+            <id>71</id>
+            <endpoints>[250.578, 44.4682, 320.981, 79.9187]</endpoints>
+        </segment>
+        <segment>
+            <id>72</id>
+            <endpoints>[322.338, 59.8178, 293.685, 43.3984]</endpoints>
+        </segment>
+        <segment>
+            <id>73</id>
+            <endpoints>[354.436, 46.3196, 348.016, 46.886]</endpoints>
+        </segment>
+        <segment>
+            <id>74</id>
+            <endpoints>[171.987, 53.2773, 194.444, 51.4849]</endpoints>
+        </segment>
+        <segment>
+            <id>75</id>
+            <endpoints>[348.072, 51.2819, 390.789, 47.4666]</endpoints>
+        </segment>
+        <segment>
+            <id>76</id>
+            <endpoints>[451.158, 54.053, 465.675, 45.7116]</endpoints>
+        </segment>
+        <segment>
+            <id>77</id>
+            <endpoints>[224.322, 50.0744, 246.852, 47.8915]</endpoints>
+        </segment>
+        <segment>
+            <id>78</id>
+            <endpoints>[341.891, 48.5159, 331.857, 48.9361]</endpoints>
+        </segment>
+        <segment>
+            <id>79</id>
+            <endpoints>[390.778, 48.4716, 404.521, 57.9123]</endpoints>
+        </segment>
+        <segment>
+            <id>80</id>
+            <endpoints>[156.89, 54.0018, 171.866, 54.6025]</endpoints>
+        </segment>
+        <segment>
+            <id>81</id>
+            <endpoints>[258.136, 50.5263, 248.119, 49.4328]</endpoints>
+        </segment>
+        <segment>
+            <id>82</id>
+            <endpoints>[192.993, 52.9531, 223.197, 50.1565]</endpoints>
+        </segment>
+        <segment>
+            <id>83</id>
+            <endpoints>[246.964, 50.2469, 208.108, 54.2088]</endpoints>
+        </segment>
+        <segment>
+            <id>84</id>
+            <endpoints>[299.353, 49.411, 321.927, 63.0382]</endpoints>
+        </segment>
+        <segment>
+            <id>85</id>
+            <endpoints>[344.168, 49.3659, 343.559, 63.1442]</endpoints>
+        </segment>
+        <segment>
+            <id>86</id>
+            <endpoints>[346.689, 63.1329, 346.103, 49.3547]</endpoints>
+        </segment>
+        <segment>
+            <id>87</id>
+            <endpoints>[316.84, 53.8647, 341.979, 52.1317]</endpoints>
+        </segment>
+        <segment>
+            <id>88</id>
+            <endpoints>[305.423, 76.0206, 258.119, 51.8865]</endpoints>
+        </segment>
+        <segment>
+            <id>89</id>
+            <endpoints>[367.969, 51.8725, 367.614, 74.4063]</endpoints>
+        </segment>
+        <segment>
+            <id>90</id>
+            <endpoints>[370.168, 60.6322, 370.248, 51.8716]</endpoints>
+        </segment>
+        <segment>
+            <id>91</id>
+            <endpoints>[405.608, 57.9372, 451.588, 53.7365]</endpoints>
+        </segment>
+        <segment>
+            <id>92</id>
+            <endpoints>[203.147, 54.5798, 174.33, 57.7104]</endpoints>
+        </segment>
+        <segment>
+            <id>93</id>
+            <endpoints>[204.899, 55.9094, 218.664, 63.3827]</endpoints>
+        </segment>
+        <segment>
+            <id>94</id>
+            <endpoints>[193.021, 59.7092, 199.431, 61.6952]</endpoints>
+        </segment>
+        <segment>
+            <id>95</id>
+            <endpoints>[169.428, 59.2026, 183.396, 63.4916]</endpoints>
+        </segment>
+        <segment>
+            <id>96</id>
+            <endpoints>[183.104, 63.2083, 202.616, 69.6786]</endpoints>
+        </segment>
+        <segment>
+            <id>97</id>
+            <endpoints>[328.921, 63.9, 323.178, 60.5354]</endpoints>
+        </segment>
+        <segment>
+            <id>98</id>
+            <endpoints>[219, 63.1018, 231.83, 67.0211]</endpoints>
+        </segment>
+        <segment>
+            <id>99</id>
+            <endpoints>[340.61, 64.1479, 328.082, 64.9667]</endpoints>
+        </segment>
+        <segment>
+            <id>100</id>
+            <endpoints>[321.296, 78.0564, 322.626, 66.816]</endpoints>
+        </segment>
+        <segment>
+            <id>101</id>
+            <endpoints>[319.47, 74.2017, 308.191, 68.0043]</endpoints>
+        </segment>
+        <segment>
+            <id>102</id>
+            <endpoints>[347.206, 80.9945, 325.357, 68.5965]</endpoints>
+        </segment>
+        <segment>
+            <id>103</id>
+            <endpoints>[242.387, 73.3465, 247.894, 76.0885]</endpoints>
+        </segment>
+        <segment>
+            <id>104</id>
+            <endpoints>[204.794, 73.2457, 227.019, 81.4875]</endpoints>
+        </segment>
+        <segment>
+            <id>105</id>
+            <endpoints>[243.337, 80.6265, 255.9, 78.4984]</endpoints>
+        </segment>
+        <segment>
+            <id>106</id>
+            <endpoints>[265.542, 79.4516, 301.876, 76.886]</endpoints>
+        </segment>
+        <segment>
+            <id>107</id>
+            <endpoints>[254.3, 79.7784, 264.421, 79.4176]</endpoints>
+        </segment>
+        <segment>
+            <id>108</id>
+            <endpoints>[317.108, 81.0284, 302.521, 77.0219]</endpoints>
+        </segment>
+        <segment>
+            <id>109</id>
+            <endpoints>[546.784, 91.8719, 547.29, 76.8469]</endpoints>
+        </segment>
+        <segment>
+            <id>110</id>
+            <endpoints>[227.628, 80.8451, 260.677, 91.7549]</endpoints>
+        </segment>
+        <segment>
+            <id>111</id>
+            <endpoints>[220.279, 86.5468, 202.883, 80.0205]</endpoints>
+        </segment>
+        <segment>
+            <id>112</id>
+            <endpoints>[285.619, 80.5275, 274.335, 81.2183]</endpoints>
+        </segment>
+        <segment>
+            <id>113</id>
+            <endpoints>[346.494, 96.3845, 317.509, 81.8537]</endpoints>
+        </segment>
+        <segment>
+            <id>114</id>
+            <endpoints>[322.951, 80.955, 332.38, 85.9149]</endpoints>
+        </segment>
+        <segment>
+            <id>115</id>
+            <endpoints>[349.391, 80.493, 350.449, 90.6433]</endpoints>
+        </segment>
+        <segment>
+            <id>116</id>
+            <endpoints>[260.095, 91.3546, 299.971, 100.865]</endpoints>
+        </segment>
+        <segment>
+            <id>117</id>
+            <endpoints>[306.846, 84.2578, 314.437, 84.4537]</endpoints>
+        </segment>
+        <segment>
+            <id>118</id>
+            <endpoints>[314.9, 84.495, 363.384, 110.135]</endpoints>
+        </segment>
+        <segment>
+            <id>119</id>
+            <endpoints>[205.362, 86.9538, 213.055, 88.4777]</endpoints>
+        </segment>
+        <segment>
+            <id>120</id>
+            <endpoints>[303.759, 99.4388, 303.285, 85.5768]</endpoints>
+        </segment>
+        <segment>
+            <id>121</id>
+            <endpoints>[352.031, 93.4139, 353.415, 86.6778]</endpoints>
+        </segment>
+        <segment>
+            <id>122</id>
+            <endpoints>[222.422, 100.656, 222.223, 88.1195]</endpoints>
+        </segment>
+        <segment>
+            <id>123</id>
+            <endpoints>[209.184, 94.6056, 205.46, 90.7374]</endpoints>
+        </segment>
+        <segment>
+            <id>124</id>
+            <endpoints>[547.188, 114.375, 547.188, 93.125]</endpoints>
+        </segment>
+        <segment>
+            <id>125</id>
+            <endpoints>[203.456, 94.3545, 203.008, 114.4]</endpoints>
+        </segment>
+        <segment>
+            <id>126</id>
+            <endpoints>[207.517, 114.427, 206.949, 94.3376]</endpoints>
+        </segment>
+        <segment>
+            <id>127</id>
+            <endpoints>[219.572, 96.6249, 212.944, 95.7541]</endpoints>
+        </segment>
+        <segment>
+            <id>128</id>
+            <endpoints>[360.859, 105.221, 347.24, 98.6221]</endpoints>
+        </segment>
+        <segment>
+            <id>129</id>
+            <endpoints>[211.056, 99.3718, 211.166, 114.38]</endpoints>
+        </segment>
+        <segment>
+            <id>130</id>
+            <endpoints>[221.93, 119.375, 221.931, 101.875]</endpoints>
+        </segment>
+        <segment>
+            <id>131</id>
+            <endpoints>[301.608, 103.091, 299.594, 191.88]</endpoints>
+        </segment>
+        <segment>
+            <id>132</id>
+            <endpoints>[27.9748, 115.189, 0.487796, 110.119]</endpoints>
+        </segment>
+        <segment>
+            <id>133</id>
+            <endpoints>[364.49, 110.373, 385.376, 119.92]</endpoints>
+        </segment>
+        <segment>
+            <id>134</id>
+            <endpoints>[3.12714, 113.114, 23.1111, 116.948]</endpoints>
+        </segment>
+        <segment>
+            <id>135</id>
+            <endpoints>[18.2353, 118.831, 0.4525, 115.226]</endpoints>
+        </segment>
+        <segment>
+            <id>136</id>
+            <endpoints>[206.718, 116.276, 218.206, 119.039]</endpoints>
+        </segment>
+        <segment>
+            <id>137</id>
+            <endpoints>[27.3766, 125.615, 27.5081, 115.617]</endpoints>
+        </segment>
+        <segment>
+            <id>138</id>
+            <endpoints>[0.438939, 117.84, 18.2411, 121.273]</endpoints>
+        </segment>
+        <segment>
+            <id>139</id>
+            <endpoints>[385.714, 120.464, 397.403, 126.93]</endpoints>
+        </segment>
+        <segment>
+            <id>140</id>
+            <endpoints>[397.369, 127.033, 409.624, 132.574]</endpoints>
+        </segment>
+        <segment>
+            <id>141</id>
+            <endpoints>[311.983, 130.927, 304.298, 130.051]</endpoints>
+        </segment>
+        <segment>
+            <id>142</id>
+            <endpoints>[343.013, 140.956, 313.063, 130.809]</endpoints>
+        </segment>
+        <segment>
+            <id>143</id>
+            <endpoints>[15.6386, 138.078, 0.133426, 133.563]</endpoints>
+        </segment>
+        <segment>
+            <id>144</id>
+            <endpoints>[303.042, 132.132, 319.578, 137.498]</endpoints>
+        </segment>
+        <segment>
+            <id>145</id>
+            <endpoints>[240.506, 138.582, 225.544, 134.684]</endpoints>
+        </segment>
+        <segment>
+            <id>146</id>
+            <endpoints>[410.904, 134.323, 410.223, 163.145]</endpoints>
+        </segment>
+        <segment>
+            <id>147</id>
+            <endpoints>[79.3345, 139.57, 65.6555, 136.728]</endpoints>
+        </segment>
+        <segment>
+            <id>148</id>
+            <endpoints>[170.348, 147.091, 122.889, 138.125]</endpoints>
+        </segment>
+        <segment>
+            <id>149</id>
+            <endpoints>[16.6115, 139.378, 16.9132, 166.875]</endpoints>
+        </segment>
+        <segment>
+            <id>150</id>
+            <endpoints>[19.9451, 168.133, 20.3601, 139.353]</endpoints>
+        </segment>
+        <segment>
+            <id>151</id>
+            <endpoints>[68.9852, 139.367, 68.7369, 151.887]</endpoints>
+        </segment>
+        <segment>
+            <id>152</id>
+            <endpoints>[391.68, 159.895, 343.199, 141.677]</endpoints>
+        </segment>
+        <segment>
+            <id>153</id>
+            <endpoints>[122.036, 142.244, 267.978, 168.931]</endpoints>
+        </segment>
+        <segment>
+            <id>154</id>
+            <endpoints>[80.1101, 154.375, 80.1075, 141.875]</endpoints>
+        </segment>
+        <segment>
+            <id>155</id>
+            <endpoints>[6.85086, 148.19, -0.273146, 145.536]</endpoints>
+        </segment>
+        <segment>
+            <id>156</id>
+            <endpoints>[8.60242, 153.124, 8.61333, 143.124]</endpoints>
+        </segment>
+        <segment>
+            <id>157</id>
+            <endpoints>[189.392, 150.526, 170.561, 147.24]</endpoints>
+        </segment>
+        <segment>
+            <id>158</id>
+            <endpoints>[221.864, 164.441, 122.825, 147.365]</endpoints>
+        </segment>
+        <segment>
+            <id>159</id>
+            <endpoints>[120.876, 146.878, 120.437, 185.623]</endpoints>
+        </segment>
+        <segment>
+            <id>160</id>
+            <endpoints>[210.44, 154.271, 189.533, 150.894]</endpoints>
+        </segment>
+        <segment>
+            <id>161</id>
+            <endpoints>[0.514547, 153.986, 6.90399, 153.555]</endpoints>
+        </segment>
+        <segment>
+            <id>162</id>
+            <endpoints>[64.5719, 153.094, 84.4857, 156.155]</endpoints>
+        </segment>
+        <segment>
+            <id>163</id>
+            <endpoints>[258.299, 163.442, 210.589, 154.567]</endpoints>
+        </segment>
+        <segment>
+            <id>164</id>
+            <endpoints>[295.938, 205.625, 295.938, 155.625]</endpoints>
+        </segment>
+        <segment>
+            <id>165</id>
+            <endpoints>[171.45, 162.434, 169.453, 156.433]</endpoints>
+        </segment>
+        <segment>
+            <id>166</id>
+            <endpoints>[408.284, 165.117, 390.561, 159.581]</endpoints>
+        </segment>
+        <segment>
+            <id>167</id>
+            <endpoints>[451.919, 157.936, 436.945, 158.558]</endpoints>
+        </segment>
+        <segment>
+            <id>168</id>
+            <endpoints>[173.792, 158.119, 173.59, 179.379]</endpoints>
+        </segment>
+        <segment>
+            <id>169</id>
+            <endpoints>[170.993, 189.394, 170.341, 159.327]</endpoints>
+        </segment>
+        <segment>
+            <id>170</id>
+            <endpoints>[270.384, 165.687, 258.835, 163.565]</endpoints>
+        </segment>
+        <segment>
+            <id>171</id>
+            <endpoints>[436.574, 160.611, 436.235, 168.096]</endpoints>
+        </segment>
+        <segment>
+            <id>172</id>
+            <endpoints>[260.561, 171.009, 225.289, 165.145]</endpoints>
+        </segment>
+        <segment>
+            <id>173</id>
+            <endpoints>[221.197, 193.146, 220.286, 164.346]</endpoints>
+        </segment>
+        <segment>
+            <id>174</id>
+            <endpoints>[275.633, 166.622, 269.389, 166.428]</endpoints>
+        </segment>
+        <segment>
+            <id>175</id>
+            <endpoints>[0.563426, 167.322, 15.7911, 169.418]</endpoints>
+        </segment>
+        <segment>
+            <id>176</id>
+            <endpoints>[223.766, 166.873, 223.804, 178.127]</endpoints>
+        </segment>
+        <segment>
+            <id>177</id>
+            <endpoints>[275.555, 181.916, 276.037, 168.096]</endpoints>
+        </segment>
+        <segment>
+            <id>178</id>
+            <endpoints>[265.472, 169.367, 265.101, 230.629]</endpoints>
+        </segment>
+        <segment>
+            <id>179</id>
+            <endpoints>[7.6325, 174.423, 0.164493, 172.116]</endpoints>
+        </segment>
+        <segment>
+            <id>180</id>
+            <endpoints>[19.3744, 174.383, 6.93192, 173.538]</endpoints>
+        </segment>
+        <segment>
+            <id>181</id>
+            <endpoints>[261.687, 198.123, 261.905, 173.114]</endpoints>
+        </segment>
+        <segment>
+            <id>182</id>
+            <endpoints>[414.378, 174.502, 380.643, 175.217]</endpoints>
+        </segment>
+        <segment>
+            <id>183</id>
+            <endpoints>[388.087, 178.972, 433.041, 174.732]</endpoints>
+        </segment>
+        <segment>
+            <id>184</id>
+            <endpoints>[19.281, 313.116, 20.2224, 175.614]</endpoints>
+        </segment>
+        <segment>
+            <id>185</id>
+            <endpoints>[358.111, 176.62, 378.142, 176.9]</endpoints>
+        </segment>
+        <segment>
+            <id>186</id>
+            <endpoints>[375.716, 177.696, 386.933, 178.307]</endpoints>
+        </segment>
+        <segment>
+            <id>187</id>
+            <endpoints>[513.914, 181.71, 502.338, 178.285]</endpoints>
+        </segment>
+        <segment>
+            <id>188</id>
+            <endpoints>[17.0718, 176.876, 16.1549, 311.879]</endpoints>
+        </segment>
+        <segment>
+            <id>189</id>
+            <endpoints>[225.563, 179.877, 254.402, 178.976]</endpoints>
+        </segment>
+        <segment>
+            <id>190</id>
+            <endpoints>[481.906, 178.333, 420.63, 179.622]</endpoints>
+        </segment>
+        <segment>
+            <id>191</id>
+            <endpoints>[8.2267, 281.872, 8.53837, 178.122]</endpoints>
+        </segment>
+        <segment>
+            <id>192</id>
+            <endpoints>[175.602, 180.495, 214.404, 179.848]</endpoints>
+        </segment>
+        <segment>
+            <id>193</id>
+            <endpoints>[356.675, 186.942, 357.243, 178.069]</endpoints>
+        </segment>
+        <segment>
+            <id>194</id>
+            <endpoints>[503.595, 178.613, 497.206, 184.767]</endpoints>
+        </segment>
+        <segment>
+            <id>195</id>
+            <endpoints>[123.12, 181.06, 164.384, 180.816]</endpoints>
+        </segment>
+        <segment>
+            <id>196</id>
+            <endpoints>[335.625, 180.625, 330.691, 185.731]</endpoints>
+        </segment>
+        <segment>
+            <id>197</id>
+            <endpoints>[377.024, 185.206, 361.021, 179.511]</endpoints>
+        </segment>
+        <segment>
+            <id>198</id>
+            <endpoints>[5.08371, 180.595, 4.97722, 186.864]</endpoints>
+        </segment>
+        <segment>
+            <id>199</id>
+            <endpoints>[256.048, 180.612, 255.79, 196.878]</endpoints>
+        </segment>
+        <segment>
+            <id>200</id>
+            <endpoints>[345.621, 188.661, 342.141, 180.511]</endpoints>
+        </segment>
+        <segment>
+            <id>201</id>
+            <endpoints>[517.33, 187.125, 515.316, 180.722]</endpoints>
+        </segment>
+        <segment>
+            <id>202</id>
+            <endpoints>[216.877, 181.875, 213.994, 193.644]</endpoints>
+        </segment>
+        <segment>
+            <id>203</id>
+            <endpoints>[329.819, 182.017, 329.204, 189.361]</endpoints>
+        </segment>
+        <segment>
+            <id>204</id>
+            <endpoints>[423.129, 184.508, 381.871, 184.377]</endpoints>
+        </segment>
+        <segment>
+            <id>205</id>
+            <endpoints>[211.874, 183.047, 175.618, 183.278]</endpoints>
+        </segment>
+        <segment>
+            <id>206</id>
+            <endpoints>[275.332, 198.169, 275.633, 183.1]</endpoints>
+        </segment>
+        <segment>
+            <id>207</id>
+            <endpoints>[199.318, 187.309, 211.931, 186.426]</endpoints>
+        </segment>
+        <segment>
+            <id>208</id>
+            <endpoints>[232.164, 188.848, 227.699, 186.402]</endpoints>
+        </segment>
+        <segment>
+            <id>209</id>
+            <endpoints>[497.833, 184.32, 496.804, 189.829]</endpoints>
+        </segment>
+        <segment>
+            <id>210</id>
+            <endpoints>[121.884, 186.78, 169.427, 191.327]</endpoints>
+        </segment>
+        <segment>
+            <id>211</id>
+            <endpoints>[175.686, 188.275, 181.926, 185.752]</endpoints>
+        </segment>
+        <segment>
+            <id>212</id>
+            <endpoints>[326.863, 186.498, 309.366, 186.262]</endpoints>
+        </segment>
+        <segment>
+            <id>213</id>
+            <endpoints>[380.685, 185.626, 380.542, 198.138]</endpoints>
+        </segment>
+        <segment>
+            <id>214</id>
+            <endpoints>[4.61967, 188.134, 2.60481, 244.401]</endpoints>
+        </segment>
+        <segment>
+            <id>215</id>
+            <endpoints>[176.914, 192.407, 185.891, 191.748]</endpoints>
+        </segment>
+        <segment>
+            <id>216</id>
+            <endpoints>[514.694, 195.751, 517.763, 187.982]</endpoints>
+        </segment>
+        <segment>
+            <id>217</id>
+            <endpoints>[170.609, 194.537, 121.841, 189.719]</endpoints>
+        </segment>
+        <segment>
+            <id>218</id>
+            <endpoints>[328.11, 189.379, 330.568, 198.141]</endpoints>
+        </segment>
+        <segment>
+            <id>219</id>
+            <endpoints>[343.093, 198.115, 345.822, 189.058]</endpoints>
+        </segment>
+        <segment>
+            <id>220</id>
+            <endpoints>[354.059, 217.075, 356.605, 189.236]</endpoints>
+        </segment>
+        <segment>
+            <id>221</id>
+            <endpoints>[104.385, 191.765, 90.6298, 190.57]</endpoints>
+        </segment>
+        <segment>
+            <id>222</id>
+            <endpoints>[309.362, 192.566, 326.882, 192.152]</endpoints>
+        </segment>
+        <segment>
+            <id>223</id>
+            <endpoints>[496.068, 189.611, 501.025, 197.885]</endpoints>
+        </segment>
+        <segment>
+            <id>224</id>
+            <endpoints>[186.882, 193.042, 260.609, 199.561]</endpoints>
+        </segment>
+        <segment>
+            <id>225</id>
+            <endpoints>[403.143, 195.024, 384.338, 195.544]</endpoints>
+        </segment>
+        <segment>
+            <id>226</id>
+            <endpoints>[39.3815, 194.107, 54.4029, 194.471]</endpoints>
+        </segment>
+        <segment>
+            <id>227</id>
+            <endpoints>[300.389, 193.113, 300.822, 230.652]</endpoints>
+        </segment>
+        <segment>
+            <id>228</id>
+            <endpoints>[220.591, 198.529, 174.356, 194.599]</endpoints>
+        </segment>
+        <segment>
+            <id>229</id>
+            <endpoints>[418.182, 198.401, 435.211, 194.874]</endpoints>
+        </segment>
+        <segment>
+            <id>230</id>
+            <endpoints>[504.826, 198.969, 516.563, 195.742]</endpoints>
+        </segment>
+        <segment>
+            <id>231</id>
+            <endpoints>[121.561, 195.478, 120.249, 209.457]</endpoints>
+        </segment>
+        <segment>
+            <id>232</id>
+            <endpoints>[164.73, 195.63, 164.428, 219.376]</endpoints>
+        </segment>
+        <segment>
+            <id>233</id>
+            <endpoints>[169.817, 281.88, 170.763, 195.613]</endpoints>
+        </segment>
+        <segment>
+            <id>234</id>
+            <endpoints>[436.876, 197.603, 470.626, 197.556]</endpoints>
+        </segment>
+        <segment>
+            <id>235</id>
+            <endpoints>[353.192, 199.316, 343.083, 199.883]</endpoints>
+        </segment>
+        <segment>
+            <id>236</id>
+            <endpoints>[383.124, 199.34, 416.917, 198.415]</endpoints>
+        </segment>
+        <segment>
+            <id>237</id>
+            <endpoints>[473.068, 198.225, 483.167, 197.721]</endpoints>
+        </segment>
+        <segment>
+            <id>238</id>
+            <endpoints>[501.707, 201.714, 486.491, 199.37]</endpoints>
+        </segment>
+        <segment>
+            <id>239</id>
+            <endpoints>[534.337, 464.303, 541.976, 196.771]</endpoints>
+        </segment>
+        <segment>
+            <id>240</id>
+            <endpoints>[80.6256, 199.34, 68.1072, 199.116]</endpoints>
+        </segment>
+        <segment>
+            <id>241</id>
+            <endpoints>[362.542, 213.111, 362.894, 198.12]</endpoints>
+        </segment>
+        <segment>
+            <id>242</id>
+            <endpoints>[129.494, 211.876, 129.621, 199.378]</endpoints>
+        </segment>
+        <segment>
+            <id>243</id>
+            <endpoints>[212.622, 199.371, 212.34, 236.878]</endpoints>
+        </segment>
+        <segment>
+            <id>244</id>
+            <endpoints>[254.394, 201.396, 226.887, 200.322]</endpoints>
+        </segment>
+        <segment>
+            <id>245</id>
+            <endpoints>[275.333, 215.636, 275.411, 199.368]</endpoints>
+        </segment>
+        <segment>
+            <id>246</id>
+            <endpoints>[335.683, 201.071, 315.608, 199.614]</endpoints>
+        </segment>
+        <segment>
+            <id>247</id>
+            <endpoints>[413.591, 254.407, 414.608, 199.379]</endpoints>
+        </segment>
+        <segment>
+            <id>248</id>
+            <endpoints>[485.987, 199.38, 485.545, 234.374]</endpoints>
+        </segment>
+        <segment>
+            <id>249</id>
+            <endpoints>[66.6969, 200.622, 66.3023, 225.636]</endpoints>
+        </segment>
+        <segment>
+            <id>250</id>
+            <endpoints>[221.069, 260.623, 220.822, 200.614]</endpoints>
+        </segment>
+        <segment>
+            <id>251</id>
+            <endpoints>[360.792, 200.641, 359.496, 214.386]</endpoints>
+        </segment>
+        <segment>
+            <id>252</id>
+            <endpoints>[380.532, 200.623, 379.443, 255.651]</endpoints>
+        </segment>
+        <segment>
+            <id>253</id>
+            <endpoints>[405.634, 201.354, 383.107, 201.632]</endpoints>
+        </segment>
+        <segment>
+            <id>254</id>
+            <endpoints>[406.005, 233.151, 406.528, 200.599]</endpoints>
+        </segment>
+        <segment>
+            <id>255</id>
+            <endpoints>[417.845, 200.619, 418.092, 240.617]</endpoints>
+        </segment>
+        <segment>
+            <id>256</id>
+            <endpoints>[82.4182, 230.632, 82.1223, 201.86]</endpoints>
+        </segment>
+        <segment>
+            <id>257</id>
+            <endpoints>[260.713, 253.111, 261.318, 201.868]</endpoints>
+        </segment>
+        <segment>
+            <id>258</id>
+            <endpoints>[342.186, 201.867, 342.445, 211.893]</endpoints>
+        </segment>
+        <segment>
+            <id>259</id>
+            <endpoints>[63.1561, 203.798, 51.8724, 204.319]</endpoints>
+        </segment>
+        <segment>
+            <id>260</id>
+            <endpoints>[326.627, 203.08, 326.322, 213.146]</endpoints>
+        </segment>
+        <segment>
+            <id>261</id>
+            <endpoints>[252.306, 226.847, 250.822, 204.28]</endpoints>
+        </segment>
+        <segment>
+            <id>262</id>
+            <endpoints>[255.685, 204.369, 255.85, 241.874]</endpoints>
+        </segment>
+        <segment>
+            <id>263</id>
+            <endpoints>[319.382, 207.512, 304.357, 207.669]</endpoints>
+        </segment>
+        <segment>
+            <id>264</id>
+            <endpoints>[427.585, 203.918, 433.963, 213.836]</endpoints>
+        </segment>
+        <segment>
+            <id>265</id>
+            <endpoints>[187.82, 205.57, 188.334, 214.363]</endpoints>
+        </segment>
+        <segment>
+            <id>266</id>
+            <endpoints>[124.202, 208.1, 124.04, 225.61]</endpoints>
+        </segment>
+        <segment>
+            <id>267</id>
+            <endpoints>[190.064, 218.227, 191.538, 208.26]</endpoints>
+        </segment>
+        <segment>
+            <id>268</id>
+            <endpoints>[462.463, 213.054, 455.437, 211.447]</endpoints>
+        </segment>
+        <segment>
+            <id>269</id>
+            <endpoints>[469.181, 215.104, 481.381, 210.551]</endpoints>
+        </segment>
+        <segment>
+            <id>270</id>
+            <endpoints>[195.051, 211.974, 193.946, 219.496]</endpoints>
+        </segment>
+        <segment>
+            <id>271</id>
+            <endpoints>[441.089, 211.882, 440.955, 220.649]</endpoints>
+        </segment>
+        <segment>
+            <id>272</id>
+            <endpoints>[128.996, 255.658, 129.641, 214.379]</endpoints>
+        </segment>
+        <segment>
+            <id>273</id>
+            <endpoints>[137.505, 214.704, 144.944, 219.792]</endpoints>
+        </segment>
+        <segment>
+            <id>274</id>
+            <endpoints>[243.462, 214.356, 244.175, 226.886]</endpoints>
+        </segment>
+        <segment>
+            <id>275</id>
+            <endpoints>[395.633, 216.967, 404.425, 216.207]</endpoints>
+        </segment>
+        <segment>
+            <id>276</id>
+            <endpoints>[443.955, 221.804, 445.258, 214.101]</endpoints>
+        </segment>
+        <segment>
+            <id>277</id>
+            <endpoints>[274.899, 224.383, 275.029, 215.579]</endpoints>
+        </segment>
+        <segment>
+            <id>278</id>
+            <endpoints>[497.565, 228.165, 496.669, 215.551]</endpoints>
+        </segment>
+        <segment>
+            <id>279</id>
+            <endpoints>[354.556, 263.136, 354.334, 218.113]</endpoints>
+        </segment>
+        <segment>
+            <id>280</id>
+            <endpoints>[381.675, 220.113, 388.266, 219.365]</endpoints>
+        </segment>
+        <segment>
+            <id>281</id>
+            <endpoints>[403.582, 218.08, 403.155, 225.627]</endpoints>
+        </segment>
+        <segment>
+            <id>282</id>
+            <endpoints>[58.1093, 220.065, 39.369, 219.638]</endpoints>
+        </segment>
+        <segment>
+            <id>283</id>
+            <endpoints>[163.816, 219.337, 164.228, 240.652]</endpoints>
+        </segment>
+        <segment>
+            <id>284</id>
+            <endpoints>[193.1, 221.179, 175.578, 221.802]</endpoints>
+        </segment>
+        <segment>
+            <id>285</id>
+            <endpoints>[206.876, 220.636, 199.333, 220.992]</endpoints>
+        </segment>
+        <segment>
+            <id>286</id>
+            <endpoints>[230.598, 226.884, 228.228, 219.343]</endpoints>
+        </segment>
+        <segment>
+            <id>287</id>
+            <endpoints>[310.299, 240.614, 310.987, 219.346]</endpoints>
+        </segment>
+        <segment>
+            <id>288</id>
+            <endpoints>[359.299, 219.377, 359.89, 239.36]</endpoints>
+        </segment>
+        <segment>
+            <id>289</id>
+            <endpoints>[469.465, 230.635, 469.551, 219.376]</endpoints>
+        </segment>
+        <segment>
+            <id>290</id>
+            <endpoints>[534.355, 219.366, 534.227, 236.883]</endpoints>
+        </segment>
+        <segment>
+            <id>291</id>
+            <endpoints>[234.305, 220.129, 237.101, 226.78]</endpoints>
+        </segment>
+        <segment>
+            <id>292</id>
+            <endpoints>[328.38, 220.591, 328.553, 228.144]</endpoints>
+        </segment>
+        <segment>
+            <id>293</id>
+            <endpoints>[362.754, 238.125, 362.733, 220.625]</endpoints>
+        </segment>
+        <segment>
+            <id>294</id>
+            <endpoints>[138.096, 223.19, 146.794, 227.057]</endpoints>
+        </segment>
+        <segment>
+            <id>295</id>
+            <endpoints>[390.073, 221.753, 386.726, 236.842]</endpoints>
+        </segment>
+        <segment>
+            <id>296</id>
+            <endpoints>[294.688, 250.625, 294.688, 223.125]</endpoints>
+        </segment>
+        <segment>
+            <id>297</id>
+            <endpoints>[443.854, 224.34, 444.155, 230.636]</endpoints>
+        </segment>
+        <segment>
+            <id>298</id>
+            <endpoints>[274.663, 239.427, 275.132, 225.566]</endpoints>
+        </segment>
+        <segment>
+            <id>299</id>
+            <endpoints>[125.947, 226.869, 126.387, 250.634]</endpoints>
+        </segment>
+        <segment>
+            <id>300</id>
+            <endpoints>[144.062, 232.692, 149.724, 228.609]</endpoints>
+        </segment>
+        <segment>
+            <id>301</id>
+            <endpoints>[180.247, 227.351, 187.122, 232.815]</endpoints>
+        </segment>
+        <segment>
+            <id>302</id>
+            <endpoints>[243.105, 228.617, 225.583, 227.92]</endpoints>
+        </segment>
+        <segment>
+            <id>303</id>
+            <endpoints>[316.032, 228.498, 319.218, 235.695]</endpoints>
+        </segment>
+        <segment>
+            <id>304</id>
+            <endpoints>[488.079, 230.032, 496.873, 229.351]</endpoints>
+        </segment>
+        <segment>
+            <id>305</id>
+            <endpoints>[510.66, 229.869, 519.366, 229.253]</endpoints>
+        </segment>
+        <segment>
+            <id>306</id>
+            <endpoints>[331.93, 229.161, 330.551, 236.862]</endpoints>
+        </segment>
+        <segment>
+            <id>307</id>
+            <endpoints>[66.8933, 232.69, 80.6364, 232.382]</endpoints>
+        </segment>
+        <segment>
+            <id>308</id>
+            <endpoints>[234.266, 231.062, 239.56, 232.385]</endpoints>
+        </segment>
+        <segment>
+            <id>309</id>
+            <endpoints>[301.116, 230.413, 300.037, 246.999]</endpoints>
+        </segment>
+        <segment>
+            <id>310</id>
+            <endpoints>[264.904, 231.834, 264.486, 251.903]</endpoints>
+        </segment>
+        <segment>
+            <id>311</id>
+            <endpoints>[481.879, 232.744, 445.62, 232.388]</endpoints>
+        </segment>
+        <segment>
+            <id>312</id>
+            <endpoints>[120.135, 233.125, 120.127, 250.626]</endpoints>
+        </segment>
+        <segment>
+            <id>313</id>
+            <endpoints>[218.051, 250.626, 217.809, 234.38]</endpoints>
+        </segment>
+        <segment>
+            <id>314</id>
+            <endpoints>[444.36, 235.053, 481.869, 235.878]</endpoints>
+        </segment>
+        <segment>
+            <id>315</id>
+            <endpoints>[390.671, 240.215, 381.891, 239.23]</endpoints>
+        </segment>
+        <segment>
+            <id>316</id>
+            <endpoints>[485.401, 235.625, 485.432, 255.627]</endpoints>
+        </segment>
+        <segment>
+            <id>317</id>
+            <endpoints>[496.928, 237.196, 488.136, 236.69]</endpoints>
+        </segment>
+        <segment>
+            <id>318</id>
+            <endpoints>[124.471, 248.108, 122.515, 236.982]</endpoints>
+        </segment>
+        <segment>
+            <id>319</id>
+            <endpoints>[213.191, 238.035, 212.128, 266.884]</endpoints>
+        </segment>
+        <segment>
+            <id>320</id>
+            <endpoints>[440.05, 244.023, 427.813, 238.865]</endpoints>
+        </segment>
+        <segment>
+            <id>321</id>
+            <endpoints>[274.689, 253.132, 274.978, 240.61]</endpoints>
+        </segment>
+        <segment>
+            <id>322</id>
+            <endpoints>[329.373, 241.856, 321.967, 242.691]</endpoints>
+        </segment>
+        <segment>
+            <id>323</id>
+            <endpoints>[475.625, 241.868, 443.114, 241.108]</endpoints>
+        </segment>
+        <segment>
+            <id>324</id>
+            <endpoints>[162.669, 241.792, 163.84, 270.647]</endpoints>
+        </segment>
+        <segment>
+            <id>325</id>
+            <endpoints>[223.127, 243.038, 243.113, 243.572]</endpoints>
+        </segment>
+        <segment>
+            <id>326</id>
+            <endpoints>[206.838, 248.344, 191.843, 245.813]</endpoints>
+        </segment>
+        <segment>
+            <id>327</id>
+            <endpoints>[325.32, 248.375, 335.655, 250.476]</endpoints>
+        </segment>
+        <segment>
+            <id>328</id>
+            <endpoints>[359.235, 245.628, 359.813, 271.893]</endpoints>
+        </segment>
+        <segment>
+            <id>329</id>
+            <endpoints>[361.789, 264.373, 362.166, 245.631]</endpoints>
+        </segment>
+        <segment>
+            <id>330</id>
+            <endpoints>[343.111, 248.478, 351.878, 248.337]</endpoints>
+        </segment>
+        <segment>
+            <id>331</id>
+            <endpoints>[506.831, 248.45, 519.362, 247.851]</endpoints>
+        </segment>
+        <segment>
+            <id>332</id>
+            <endpoints>[300.894, 248.15, 299.631, 262.012]</endpoints>
+        </segment>
+        <segment>
+            <id>333</id>
+            <endpoints>[405.323, 257.028, 400.784, 248.045]</endpoints>
+        </segment>
+        <segment>
+            <id>334</id>
+            <endpoints>[190.653, 249.907, 201.934, 250.343]</endpoints>
+        </segment>
+        <segment>
+            <id>335</id>
+            <endpoints>[203.265, 263.156, 206.341, 249.257]</endpoints>
+        </segment>
+        <segment>
+            <id>336</id>
+            <endpoints>[429.346, 252.955, 437.048, 251.624]</endpoints>
+        </segment>
+        <segment>
+            <id>337</id>
+            <endpoints>[246.8, 254.841, 255.708, 253.983]</endpoints>
+        </segment>
+        <segment>
+            <id>338</id>
+            <endpoints>[119.142, 254.304, 119.619, 269.446]</endpoints>
+        </segment>
+        <segment>
+            <id>339</id>
+            <endpoints>[280.989, 269.381, 281.254, 254.386]</endpoints>
+        </segment>
+        <segment>
+            <id>340</id>
+            <endpoints>[319.315, 257.912, 329.56, 255.035]</endpoints>
+        </segment>
+        <segment>
+            <id>341</id>
+            <endpoints>[112.317, 256.255, 84.4738, 275.766]</endpoints>
+        </segment>
+        <segment>
+            <id>342</id>
+            <endpoints>[185.802, 293.325, 226.83, 256.985]</endpoints>
+        </segment>
+        <segment>
+            <id>343</id>
+            <endpoints>[301.862, 257.772, 314.391, 257.311]</endpoints>
+        </segment>
+        <segment>
+            <id>344</id>
+            <endpoints>[330.253, 255.56, 328.698, 264.475]</endpoints>
+        </segment>
+        <segment>
+            <id>345</id>
+            <endpoints>[338.37, 266.793, 339.286, 255.618]</endpoints>
+        </segment>
+        <segment>
+            <id>346</id>
+            <endpoints>[381.871, 256.975, 404.383, 257.93]</endpoints>
+        </segment>
+        <segment>
+            <id>347</id>
+            <endpoints>[125.625, 270.789, 127.482, 256.627]</endpoints>
+        </segment>
+        <segment>
+            <id>348</id>
+            <endpoints>[249.301, 256.47, 237.974, 258.55]</endpoints>
+        </segment>
+        <segment>
+            <id>349</id>
+            <endpoints>[260.841, 271.873, 260.868, 256.873]</endpoints>
+        </segment>
+        <segment>
+            <id>350</id>
+            <endpoints>[264.151, 256.886, 264.903, 271.973]</endpoints>
+        </segment>
+        <segment>
+            <id>351</id>
+            <endpoints>[274.42, 271.875, 274.367, 256.866]</endpoints>
+        </segment>
+        <segment>
+            <id>352</id>
+            <endpoints>[409.314, 259.076, 414.358, 258.044]</endpoints>
+        </segment>
+        <segment>
+            <id>353</id>
+            <endpoints>[415.668, 258.412, 424.227, 257.134]</endpoints>
+        </segment>
+        <segment>
+            <id>354</id>
+            <endpoints>[464.356, 258.29, 471.898, 258.157]</endpoints>
+        </segment>
+        <segment>
+            <id>355</id>
+            <endpoints>[472.937, 258.934, 481.841, 259.745]</endpoints>
+        </segment>
+        <segment>
+            <id>356</id>
+            <endpoints>[3.4312, 258.101, 3.17416, 268.094]</endpoints>
+        </segment>
+        <segment>
+            <id>357</id>
+            <endpoints>[230.681, 258.188, 208.701, 277.529]</endpoints>
+        </segment>
+        <segment>
+            <id>358</id>
+            <endpoints>[236.047, 258.117, 236.313, 271.862]</endpoints>
+        </segment>
+        <segment>
+            <id>359</id>
+            <endpoints>[253.108, 258.127, 254.441, 270.75]</endpoints>
+        </segment>
+        <segment>
+            <id>360</id>
+            <endpoints>[232.392, 290.636, 233.077, 259.347]</endpoints>
+        </segment>
+        <segment>
+            <id>361</id>
+            <endpoints>[244.731, 268.115, 244.493, 259.372]</endpoints>
+        </segment>
+        <segment>
+            <id>362</id>
+            <endpoints>[350.504, 265.743, 351.179, 259.302]</endpoints>
+        </segment>
+        <segment>
+            <id>363</id>
+            <endpoints>[401.845, 261.469, 381.826, 260.757]</endpoints>
+        </segment>
+        <segment>
+            <id>364</id>
+            <endpoints>[486.782, 261.997, 495.654, 262.313]</endpoints>
+        </segment>
+        <segment>
+            <id>365</id>
+            <endpoints>[191.889, 262.7, 180.61, 262.316]</endpoints>
+        </segment>
+        <segment>
+            <id>366</id>
+            <endpoints>[300.627, 265.631, 313.385, 261.41]</endpoints>
+        </segment>
+        <segment>
+            <id>367</id>
+            <endpoints>[379.612, 260.632, 379.212, 274.407]</endpoints>
+        </segment>
+        <segment>
+            <id>368</id>
+            <endpoints>[425.326, 262.137, 417.957, 263.121]</endpoints>
+        </segment>
+        <segment>
+            <id>369</id>
+            <endpoints>[454.774, 261.012, 451.081, 264.818]</endpoints>
+        </segment>
+        <segment>
+            <id>370</id>
+            <endpoints>[179.573, 262.277, 173.059, 265.491]</endpoints>
+        </segment>
+        <segment>
+            <id>371</id>
+            <endpoints>[314.188, 261.872, 313.861, 283.136]</endpoints>
+        </segment>
+        <segment>
+            <id>372</id>
+            <endpoints>[366.416, 262.459, 360.907, 269.91]</endpoints>
+        </segment>
+        <segment>
+            <id>373</id>
+            <endpoints>[410.83, 309.299, 412.399, 261.768]</endpoints>
+        </segment>
+        <segment>
+            <id>374</id>
+            <endpoints>[163.256, 270.773, 125.803, 268.685]</endpoints>
+        </segment>
+        <segment>
+            <id>375</id>
+            <endpoints>[197.141, 262.971, 196.286, 268.425]</endpoints>
+        </segment>
+        <segment>
+            <id>376</id>
+            <endpoints>[360.051, 278.983, 371.604, 262.085]</endpoints>
+        </segment>
+        <segment>
+            <id>377</id>
+            <endpoints>[495.637, 265.046, 509.407, 265.335]</endpoints>
+        </segment>
+        <segment>
+            <id>378</id>
+            <endpoints>[517.959, 263.108, 515.809, 440.627]</endpoints>
+        </segment>
+        <segment>
+            <id>379</id>
+            <endpoints>[196.083, 275.582, 209.454, 266.288]</endpoints>
+        </segment>
+        <segment>
+            <id>380</id>
+            <endpoints>[329.414, 265.269, 336.96, 266.087]</endpoints>
+        </segment>
+        <segment>
+            <id>381</id>
+            <endpoints>[354.379, 279.375, 355.177, 264.285]</endpoints>
+        </segment>
+        <segment>
+            <id>382</id>
+            <endpoints>[381.314, 274.402, 401.628, 265.087]</endpoints>
+        </segment>
+        <segment>
+            <id>383</id>
+            <endpoints>[193.227, 268.697, 184.303, 267.353]</endpoints>
+        </segment>
+        <segment>
+            <id>384</id>
+            <endpoints>[116.869, 266.81, 98.1585, 268.497]</endpoints>
+        </segment>
+        <segment>
+            <id>385</id>
+            <endpoints>[282.972, 271.393, 296.906, 266.973]</endpoints>
+        </segment>
+        <segment>
+            <id>386</id>
+            <endpoints>[370.251, 266.875, 370.236, 285.625]</endpoints>
+        </segment>
+        <segment>
+            <id>387</id>
+            <endpoints>[372.609, 285.665, 373.644, 266.835]</endpoints>
+        </segment>
+        <segment>
+            <id>388</id>
+            <endpoints>[469.857, 274.193, 467.059, 266.805]</endpoints>
+        </segment>
+        <segment>
+            <id>389</id>
+            <endpoints>[3.29958, 268.077, 3.68594, 279.441]</endpoints>
+        </segment>
+        <segment>
+            <id>390</id>
+            <endpoints>[343.075, 270.009, 329.312, 268.913]</endpoints>
+        </segment>
+        <segment>
+            <id>391</id>
+            <endpoints>[400.808, 268.512, 380.601, 278.075]</endpoints>
+        </segment>
+        <segment>
+            <id>392</id>
+            <endpoints>[405.026, 268.109, 403.653, 318.139]</endpoints>
+        </segment>
+        <segment>
+            <id>393</id>
+            <endpoints>[229.815, 272.2, 221.732, 273.459]</endpoints>
+        </segment>
+        <segment>
+            <id>394</id>
+            <endpoints>[292.458, 283.155, 293.174, 269.313]</endpoints>
+        </segment>
+        <segment>
+            <id>395</id>
+            <endpoints>[300.638, 270.403, 311.922, 271.065]</endpoints>
+        </segment>
+        <segment>
+            <id>396</id>
+            <endpoints>[425.292, 310.676, 427.587, 269.415]</endpoints>
+        </segment>
+        <segment>
+            <id>397</id>
+            <endpoints>[119.51, 270.587, 120.019, 305.634]</endpoints>
+        </segment>
+        <segment>
+            <id>398</id>
+            <endpoints>[290.156, 270.617, 289.932, 283.135]</endpoints>
+        </segment>
+        <segment>
+            <id>399</id>
+            <endpoints>[314.447, 299.38, 316.563, 270.694]</endpoints>
+        </segment>
+        <segment>
+            <id>400</id>
+            <endpoints>[401.319, 303.11, 402.178, 270.6]</endpoints>
+        </segment>
+        <segment>
+            <id>401</id>
+            <endpoints>[194.397, 273.876, 174.326, 272.983]</endpoints>
+        </segment>
+        <segment>
+            <id>402</id>
+            <endpoints>[237.926, 275.402, 259.458, 272.493]</endpoints>
+        </segment>
+        <segment>
+            <id>403</id>
+            <endpoints>[264.562, 276.017, 272.129, 272.407]</endpoints>
+        </segment>
+        <segment>
+            <id>404</id>
+            <endpoints>[326.871, 272.185, 343.135, 272.413]</endpoints>
+        </segment>
+        <segment>
+            <id>405</id>
+            <endpoints>[236.303, 274.367, 236.082, 289.382]</endpoints>
+        </segment>
+        <segment>
+            <id>406</id>
+            <endpoints>[280.815, 283.132, 281.147, 274.348]</endpoints>
+        </segment>
+        <segment>
+            <id>407</id>
+            <endpoints>[391.877, 274.295, 390.593, 314.414]</endpoints>
+        </segment>
+        <segment>
+            <id>408</id>
+            <endpoints>[506.889, 277.168, 491.864, 277.909]</endpoints>
+        </segment>
+        <segment>
+            <id>409</id>
+            <endpoints>[210.53, 278.645, 230.676, 276.014]</endpoints>
+        </segment>
+        <segment>
+            <id>410</id>
+            <endpoints>[387.185, 321.888, 389.16, 275.616]</endpoints>
+        </segment>
+        <segment>
+            <id>411</id>
+            <endpoints>[379.824, 276.927, 377.203, 299.558]</endpoints>
+        </segment>
+        <segment>
+            <id>412</id>
+            <endpoints>[103.09, 277.808, 89.3672, 279.303]</endpoints>
+        </segment>
+        <segment>
+            <id>413</id>
+            <endpoints>[208.459, 278.507, 190.484, 294.213]</endpoints>
+        </segment>
+        <segment>
+            <id>414</id>
+            <endpoints>[238.061, 284.167, 259.224, 277.634]</endpoints>
+        </segment>
+        <segment>
+            <id>415</id>
+            <endpoints>[173.12, 283.085, 198.186, 279.848]</endpoints>
+        </segment>
+        <segment>
+            <id>416</id>
+            <endpoints>[355.659, 284.401, 359.396, 279.391]</endpoints>
+        </segment>
+        <segment>
+            <id>417</id>
+            <endpoints>[490.715, 281.757, 509.446, 280.275]</endpoints>
+        </segment>
+        <segment>
+            <id>418</id>
+            <endpoints>[121.796, 288.652, 170.781, 283.305]</endpoints>
+        </segment>
+        <segment>
+            <id>419</id>
+            <endpoints>[288.232, 285.04, 276.802, 284.372]</endpoints>
+        </segment>
+        <segment>
+            <id>420</id>
+            <endpoints>[324.868, 300.742, 326.134, 281.825]</endpoints>
+        </segment>
+        <segment>
+            <id>421</id>
+            <endpoints>[272.968, 284.699, 250.478, 288.51]</endpoints>
+        </segment>
+        <segment>
+            <id>422</id>
+            <endpoints>[313.262, 287.121, 289.372, 285.672]</endpoints>
+        </segment>
+        <segment>
+            <id>423</id>
+            <endpoints>[2.25393, 285.617, 2.82499, 311.854]</endpoints>
+        </segment>
+        <segment>
+            <id>424</id>
+            <endpoints>[328.124, 285.625, 327.666, 298.154]</endpoints>
+        </segment>
+        <segment>
+            <id>425</id>
+            <endpoints>[437.888, 285.575, 438.208, 291.995]</endpoints>
+        </segment>
+        <segment>
+            <id>426</id>
+            <endpoints>[8.14403, 310.625, 8.29901, 286.868]</endpoints>
+        </segment>
+        <segment>
+            <id>427</id>
+            <endpoints>[317.251, 286.883, 316.939, 301.876]</endpoints>
+        </segment>
+        <segment>
+            <id>428</id>
+            <endpoints>[369.797, 333.141, 371.519, 286.815]</endpoints>
+        </segment>
+        <segment>
+            <id>429</id>
+            <endpoints>[443.784, 303.153, 444.481, 286.826]</endpoints>
+        </segment>
+        <segment>
+            <id>430</id>
+            <endpoints>[447.884, 286.856, 446.805, 300.619]</endpoints>
+        </segment>
+        <segment>
+            <id>431</id>
+            <endpoints>[207.932, 288.615, 196.768, 291.456]</endpoints>
+        </segment>
+        <segment>
+            <id>432</id>
+            <endpoints>[250.41, 293.225, 276.902, 288.272]</endpoints>
+        </segment>
+        <segment>
+            <id>433</id>
+            <endpoints>[465.534, 289.415, 474.328, 288.755]</endpoints>
+        </segment>
+        <segment>
+            <id>434</id>
+            <endpoints>[191.862, 295.545, 219.435, 290.989]</endpoints>
+        </segment>
+        <segment>
+            <id>435</id>
+            <endpoints>[276.956, 291.053, 250.47, 296.056]</endpoints>
+        </segment>
+        <segment>
+            <id>436</id>
+            <endpoints>[283.096, 292.997, 288.391, 291.802]</endpoints>
+        </segment>
+        <segment>
+            <id>437</id>
+            <endpoints>[289.98, 309.404, 290.269, 290.62]</endpoints>
+        </segment>
+        <segment>
+            <id>438</id>
+            <endpoints>[359.252, 290.614, 357.082, 314.394]</endpoints>
+        </segment>
+        <segment>
+            <id>439</id>
+            <endpoints>[482.085, 319.375, 482.126, 290.624]</endpoints>
+        </segment>
+        <segment>
+            <id>440</id>
+            <endpoints>[230.659, 292.094, 188.018, 298.682]</endpoints>
+        </segment>
+        <segment>
+            <id>441</id>
+            <endpoints>[275.372, 312.197, 278.311, 291.722]</endpoints>
+        </segment>
+        <segment>
+            <id>442</id>
+            <endpoints>[354.884, 301.915, 355.688, 291.781]</endpoints>
+        </segment>
+        <segment>
+            <id>443</id>
+            <endpoints>[250.565, 299.079, 276.999, 293.738]</endpoints>
+        </segment>
+        <segment>
+            <id>444</id>
+            <endpoints>[203.047, 301.421, 230.595, 296.698]</endpoints>
+        </segment>
+        <segment>
+            <id>445</id>
+            <endpoints>[293.418, 295.564, 292.614, 308.172]</endpoints>
+        </segment>
+        <segment>
+            <id>446</id>
+            <endpoints>[473.926, 297.596, 480.394, 295.962]</endpoints>
+        </segment>
+        <segment>
+            <id>447</id>
+            <endpoints>[121.808, 306.444, 181.914, 297.127]</endpoints>
+        </segment>
+        <segment>
+            <id>448</id>
+            <endpoints>[248.547, 298.117, 248.337, 319.377]</endpoints>
+        </segment>
+        <segment>
+            <id>449</id>
+            <endpoints>[180.75, 300.201, 123.24, 308.886]</endpoints>
+        </segment>
+        <segment>
+            <id>450</id>
+            <endpoints>[230.63, 299.401, 201.939, 304.722]</endpoints>
+        </segment>
+        <segment>
+            <id>451</id>
+            <endpoints>[244.294, 319.421, 245.088, 299.354]</endpoints>
+        </segment>
+        <segment>
+            <id>452</id>
+            <endpoints>[338.224, 299.591, 328.07, 304.256]</endpoints>
+        </segment>
+        <segment>
+            <id>453</id>
+            <endpoints>[231.611, 323.16, 232.413, 300.6]</endpoints>
+        </segment>
+        <segment>
+            <id>454</id>
+            <endpoints>[235.494, 300.623, 235.204, 321.886]</endpoints>
+        </segment>
+        <segment>
+            <id>455</id>
+            <endpoints>[258.99, 315.648, 259.394, 300.592]</endpoints>
+        </segment>
+        <segment>
+            <id>456</id>
+            <endpoints>[281.23, 300.613, 281.022, 311.882]</endpoints>
+        </segment>
+        <segment>
+            <id>457</id>
+            <endpoints>[312.062, 301.444, 295.534, 305.226]</endpoints>
+        </segment>
+        <segment>
+            <id>458</id>
+            <endpoints>[354.887, 312.377, 351.817, 300.018]</endpoints>
+        </segment>
+        <segment>
+            <id>459</id>
+            <endpoints>[187.944, 304.039, 194.536, 303.287]</endpoints>
+        </segment>
+        <segment>
+            <id>460</id>
+            <endpoints>[208.127, 306.886, 229.527, 302.638]</endpoints>
+        </segment>
+        <segment>
+            <id>461</id>
+            <endpoints>[392.944, 303.492, 399.531, 304.228]</endpoints>
+        </segment>
+        <segment>
+            <id>462</id>
+            <endpoints>[294.214, 310.002, 315.95, 304.381]</endpoints>
+        </segment>
+        <segment>
+            <id>463</id>
+            <endpoints>[103.129, 306.938, 115.738, 306.125]</endpoints>
+        </segment>
+        <segment>
+            <id>464</id>
+            <endpoints>[121.912, 313.421, 180.68, 306.062]</endpoints>
+        </segment>
+        <segment>
+            <id>465</id>
+            <endpoints>[252.496, 304.22, 255.353, 315.693]</endpoints>
+        </segment>
+        <segment>
+            <id>466</id>
+            <endpoints>[81.7821, 309.965, 102.965, 306.985]</endpoints>
+        </segment>
+        <segment>
+            <id>467</id>
+            <endpoints>[204.783, 306.094, 206.385, 313.235]</endpoints>
+        </segment>
+        <segment>
+            <id>468</id>
+            <endpoints>[374.051, 305.558, 371.729, 316.845]</endpoints>
+        </segment>
+        <segment>
+            <id>469</id>
+            <endpoints>[470.649, 305.677, 463.043, 309.199]</endpoints>
+        </segment>
+        <segment>
+            <id>470</id>
+            <endpoints>[479.602, 308.162, 470.695, 306.498]</endpoints>
+        </segment>
+        <segment>
+            <id>471</id>
+            <endpoints>[65.5296, 306.333, 43.0652, 310.285]</endpoints>
+        </segment>
+        <segment>
+            <id>472</id>
+            <endpoints>[197.888, 354.378, 197.223, 306.87]</endpoints>
+        </segment>
+        <segment>
+            <id>473</id>
+            <endpoints>[200.362, 306.851, 200.935, 330.648]</endpoints>
+        </segment>
+        <segment>
+            <id>474</id>
+            <endpoints>[317.244, 307.586, 293.903, 319.717]</endpoints>
+        </segment>
+        <segment>
+            <id>475</id>
+            <endpoints>[322.118, 306.88, 320.414, 384.398]</endpoints>
+        </segment>
+        <segment>
+            <id>476</id>
+            <endpoints>[333.2, 386.905, 335.042, 306.862]</endpoints>
+        </segment>
+        <segment>
+            <id>477</id>
+            <endpoints>[338.932, 306.901, 336.89, 370.625]</endpoints>
+        </segment>
+        <segment>
+            <id>478</id>
+            <endpoints>[524.409, 309.19, 535.736, 311.27]</endpoints>
+        </segment>
+        <segment>
+            <id>479</id>
+            <endpoints>[180.674, 308.402, 154.355, 313.008]</endpoints>
+        </segment>
+        <segment>
+            <id>480</id>
+            <endpoints>[189.994, 308.435, 194.265, 316.93]</endpoints>
+        </segment>
+        <segment>
+            <id>481</id>
+            <endpoints>[214.732, 308.15, 213.668, 323.338]</endpoints>
+        </segment>
+        <segment>
+            <id>482</id>
+            <endpoints>[461.91, 312.794, 449.381, 313.271]</endpoints>
+        </segment>
+        <segment>
+            <id>483</id>
+            <endpoints>[40.7727, 310.091, 33.0842, 311.677]</endpoints>
+        </segment>
+        <segment>
+            <id>484</id>
+            <endpoints>[182.437, 369.401, 183.303, 309.378]</endpoints>
+        </segment>
+        <segment>
+            <id>485</id>
+            <endpoints>[186.079, 309.369, 185.617, 368.125]</endpoints>
+        </segment>
+        <segment>
+            <id>486</id>
+            <endpoints>[218.772, 323.138, 218.868, 309.363]</endpoints>
+        </segment>
+        <segment>
+            <id>487</id>
+            <endpoints>[317.573, 353.14, 318.532, 309.357]</endpoints>
+        </segment>
+        <segment>
+            <id>488</id>
+            <endpoints>[418.47, 310.274, 405.484, 315.258]</endpoints>
+        </segment>
+        <segment>
+            <id>489</id>
+            <endpoints>[0.488404, 316.189, 14.5214, 315.199]</endpoints>
+        </segment>
+        <segment>
+            <id>490</id>
+            <endpoints>[109.193, 310.384, 103.404, 314.745]</endpoints>
+        </segment>
+        <segment>
+            <id>491</id>
+            <endpoints>[155.593, 315.331, 180.702, 312.58]</endpoints>
+        </segment>
+        <segment>
+            <id>492</id>
+            <endpoints>[259.133, 318.377, 288.29, 311.307]</endpoints>
+        </segment>
+        <segment>
+            <id>493</id>
+            <endpoints>[474.357, 314.573, 460.824, 313.374]</endpoints>
+        </segment>
+        <segment>
+            <id>494</id>
+            <endpoints>[535.582, 314.596, 519.217, 311.442]</endpoints>
+        </segment>
+        <segment>
+            <id>495</id>
+            <endpoints>[292.649, 311.875, 292.636, 326.875]</endpoints>
+        </segment>
+        <segment>
+            <id>496</id>
+            <endpoints>[352.797, 354.359, 354.847, 311.837]</endpoints>
+        </segment>
+        <segment>
+            <id>497</id>
+            <endpoints>[405.331, 318.66, 422.94, 311.426]</endpoints>
+        </segment>
+        <segment>
+            <id>498</id>
+            <endpoints>[450.739, 312.098, 429.856, 322.812]</endpoints>
+        </segment>
+        <segment>
+            <id>499</id>
+            <endpoints>[131.893, 316.558, 103.168, 314.883]</endpoints>
+        </segment>
+        <segment>
+            <id>500</id>
+            <endpoints>[357.803, 314.371, 357.553, 335.633]</endpoints>
+        </segment>
+        <segment>
+            <id>501</id>
+            <endpoints>[470.731, 318.686, 481.07, 316.733]</endpoints>
+        </segment>
+        <segment>
+            <id>502</id>
+            <endpoints>[389.791, 315.606, 390.37, 328.137]</endpoints>
+        </segment>
+        <segment>
+            <id>503</id>
+            <endpoints>[519.299, 316.008, 534.448, 319.009]</endpoints>
+        </segment>
+        <segment>
+            <id>504</id>
+            <endpoints>[95.5765, 316.569, 80.5576, 318.949]</endpoints>
+        </segment>
+        <segment>
+            <id>505</id>
+            <endpoints>[115.693, 317.357, 180.625, 323.12]</endpoints>
+        </segment>
+        <segment>
+            <id>506</id>
+            <endpoints>[249.464, 320.901, 259.616, 317.622]</endpoints>
+        </segment>
+        <segment>
+            <id>507</id>
+            <endpoints>[400.174, 318.163, 392.519, 322.913]</endpoints>
+        </segment>
+        <segment>
+            <id>508</id>
+            <endpoints>[17.3182, 319.907, 8.1996, 322.175]</endpoints>
+        </segment>
+        <segment>
+            <id>509</id>
+            <endpoints>[310.538, 318.044, 303.288, 325.778]</endpoints>
+        </segment>
+        <segment>
+            <id>510</id>
+            <endpoints>[413.087, 326.792, 432.953, 317.747]</endpoints>
+        </segment>
+        <segment>
+            <id>511</id>
+            <endpoints>[457.486, 325.394, 476.133, 320.37]</endpoints>
+        </segment>
+        <segment>
+            <id>512</id>
+            <endpoints>[18.9591, 373.129, 19.2491, 319.368]</endpoints>
+        </segment>
+        <segment>
+            <id>513</id>
+            <endpoints>[405.265, 324.99, 415.517, 319.184]</endpoints>
+        </segment>
+        <segment>
+            <id>514</id>
+            <endpoints>[7.24845, 321.926, 1.14251, 323.679]</endpoints>
+        </segment>
+        <segment>
+            <id>515</id>
+            <endpoints>[215.61, 326.784, 244.41, 322.092]</endpoints>
+        </segment>
+        <segment>
+            <id>516</id>
+            <endpoints>[373.728, 320.612, 373.578, 328.134]</endpoints>
+        </segment>
+        <segment>
+            <id>517</id>
+            <endpoints>[16.0637, 321.87, 16.5828, 371.878]</endpoints>
+        </segment>
+        <segment>
+            <id>518</id>
+            <endpoints>[44.3633, 323.043, 26.8609, 325.525]</endpoints>
+        </segment>
+        <segment>
+            <id>519</id>
+            <endpoints>[96.83, 321.618, 80.6383, 324.451]</endpoints>
+        </segment>
+        <segment>
+            <id>520</id>
+            <endpoints>[188.006, 323.106, 194.438, 323.729]</endpoints>
+        </segment>
+        <segment>
+            <id>521</id>
+            <endpoints>[287.999, 322.856, 249.036, 341.154]</endpoints>
+        </segment>
+        <segment>
+            <id>522</id>
+            <endpoints>[430.778, 323.581, 460.797, 325.825]</endpoints>
+        </segment>
+        <segment>
+            <id>523</id>
+            <endpoints>[202.987, 324.506, 215.487, 325.754]</endpoints>
+        </segment>
+        <segment>
+            <id>524</id>
+            <endpoints>[247.711, 323.123, 247.582, 348.116]</endpoints>
+        </segment>
+        <segment>
+            <id>525</id>
+            <endpoints>[8.7581, 370.641, 8.36364, 324.373]</endpoints>
+        </segment>
+        <segment>
+            <id>526</id>
+            <endpoints>[26.5585, 328.668, 44.5975, 325.751]</endpoints>
+        </segment>
+        <segment>
+            <id>527</id>
+            <endpoints>[108.144, 327.696, 88.1282, 326.803]</endpoints>
+        </segment>
+        <segment>
+            <id>528</id>
+            <endpoints>[385.551, 324.253, 377.492, 329.143]</endpoints>
+        </segment>
+        <segment>
+            <id>529</id>
+            <endpoints>[401.092, 334.376, 401.122, 324.373]</endpoints>
+        </segment>
+        <segment>
+            <id>530</id>
+            <endpoints>[393.098, 329.292, 399.854, 327.109]</endpoints>
+        </segment>
+        <segment>
+            <id>531</id>
+            <endpoints>[85.7278, 326.889, 84.3576, 337.041]</endpoints>
+        </segment>
+        <segment>
+            <id>532</id>
+            <endpoints>[181.737, 335.675, 109.257, 327.99]</endpoints>
+        </segment>
+        <segment>
+            <id>533</id>
+            <endpoints>[244.157, 346.876, 244.032, 326.877]</endpoints>
+        </segment>
+        <segment>
+            <id>534</id>
+            <endpoints>[224.864, 335.683, 224.285, 328.037]</endpoints>
+        </segment>
+        <segment>
+            <id>535</id>
+            <endpoints>[154.39, 329.226, 181.853, 332.084]</endpoints>
+        </segment>
+        <segment>
+            <id>536</id>
+            <endpoints>[372.743, 329.972, 379.45, 334.257]</endpoints>
+        </segment>
+        <segment>
+            <id>537</id>
+            <endpoints>[40.7246, 331.106, 31.8381, 332.947]</endpoints>
+        </segment>
+        <segment>
+            <id>538</id>
+            <endpoints>[256.083, 347.747, 289.227, 330.343]</endpoints>
+        </segment>
+        <segment>
+            <id>539</id>
+            <endpoints>[200.805, 331.878, 200.476, 353.142]</endpoints>
+        </segment>
+        <segment>
+            <id>540</id>
+            <endpoints>[358.945, 335.966, 367.006, 332.152]</endpoints>
+        </segment>
+        <segment>
+            <id>541</id>
+            <endpoints>[45.5099, 337.52, 65.729, 333.672]</endpoints>
+        </segment>
+        <segment>
+            <id>542</id>
+            <endpoints>[203.149, 334.049, 223.224, 335.525]</endpoints>
+        </segment>
+        <segment>
+            <id>543</id>
+            <endpoints>[155.608, 337.16, 179.349, 338.562]</endpoints>
+        </segment>
+        <segment>
+            <id>544</id>
+            <endpoints>[203.362, 341.825, 222.12, 338.114]</endpoints>
+        </segment>
+        <segment>
+            <id>545</id>
+            <endpoints>[391.473, 337.488, 399.583, 342.807]</endpoints>
+        </segment>
+        <segment>
+            <id>546</id>
+            <endpoints>[85.6205, 340.349, 73.1036, 340.551]</endpoints>
+        </segment>
+        <segment>
+            <id>547</id>
+            <endpoints>[474.344, 344.756, 415.579, 339.935]</endpoints>
+        </segment>
+        <segment>
+            <id>548</id>
+            <endpoints>[155.625, 349.374, 86.7847, 341.405]</endpoints>
+        </segment>
+        <segment>
+            <id>549</id>
+            <endpoints>[180.497, 345.448, 149.392, 341.733]</endpoints>
+        </segment>
+        <segment>
+            <id>550</id>
+            <endpoints>[212.008, 353.118, 211.441, 341.834]</endpoints>
+        </segment>
+        <segment>
+            <id>551</id>
+            <endpoints>[99.4277, 345.123, 85.5681, 343.666]</endpoints>
+        </segment>
+        <segment>
+            <id>552</id>
+            <endpoints>[139.361, 343.244, 179.401, 347.9]</endpoints>
+        </segment>
+        <segment>
+            <id>553</id>
+            <endpoints>[242.166, 345.033, 224.292, 352.938]</endpoints>
+        </segment>
+        <segment>
+            <id>554</id>
+            <endpoints>[37.0265, 347.766, 25.6796, 349.696]</endpoints>
+        </segment>
+        <segment>
+            <id>555</id>
+            <endpoints>[418.17, 352.675, 363.224, 347.142]</endpoints>
+        </segment>
+        <segment>
+            <id>556</id>
+            <endpoints>[474.343, 347.195, 514.324, 351.14]</endpoints>
+        </segment>
+        <segment>
+            <id>557</id>
+            <endpoints>[180.601, 351.007, 156.788, 349.539]</endpoints>
+        </segment>
+        <segment>
+            <id>558</id>
+            <endpoints>[636.793, 355.987, 601.893, 348.045]</endpoints>
+        </segment>
+        <segment>
+            <id>559</id>
+            <endpoints>[25.6886, 352.201, 40.6087, 349.291]</endpoints>
+        </segment>
+        <segment>
+            <id>560</id>
+            <endpoints>[267.486, 350.377, 257.417, 356.515]</endpoints>
+        </segment>
+        <segment>
+            <id>561</id>
+            <endpoints>[201.827, 355.525, 210.414, 351.432]</endpoints>
+        </segment>
+        <segment>
+            <id>562</id>
+            <endpoints>[370.571, 351.257, 425.702, 355.969]</endpoints>
+        </segment>
+        <segment>
+            <id>563</id>
+            <endpoints>[436.883, 354.289, 419.307, 352.576]</endpoints>
+        </segment>
+        <segment>
+            <id>564</id>
+            <endpoints>[80.2853, 353.016, 35.578, 364.189]</endpoints>
+        </segment>
+        <segment>
+            <id>565</id>
+            <endpoints>[125.664, 354.054, 108.117, 351.944]</endpoints>
+        </segment>
+        <segment>
+            <id>566</id>
+            <endpoints>[179.513, 362.215, 126.714, 354.183]</endpoints>
+        </segment>
+        <segment>
+            <id>567</id>
+            <endpoints>[224.309, 354.094, 216.924, 355.834]</endpoints>
+        </segment>
+        <segment>
+            <id>568</id>
+            <endpoints>[258.759, 356.626, 245.677, 362.002]</endpoints>
+        </segment>
+        <segment>
+            <id>569</id>
+            <endpoints>[466.879, 355.541, 440.57, 354.192]</endpoints>
+        </segment>
+        <segment>
+            <id>570</id>
+            <endpoints>[216.545, 355.141, 213.064, 359.324]</endpoints>
+        </segment>
+        <segment>
+            <id>571</id>
+            <endpoints>[342.567, 365.579, 343.48, 354.507]</endpoints>
+        </segment>
+        <segment>
+            <id>572</id>
+            <endpoints>[115.706, 356.284, 158.097, 362.079]</endpoints>
+        </segment>
+        <segment>
+            <id>573</id>
+            <endpoints>[196.986, 370.699, 197.802, 355.608]</endpoints>
+        </segment>
+        <segment>
+            <id>574</id>
+            <endpoints>[426.859, 355.859, 436.897, 356.549]</endpoints>
+        </segment>
+        <segment>
+            <id>575</id>
+            <endpoints>[496.876, 358.107, 470.583, 356.209]</endpoints>
+        </segment>
+        <segment>
+            <id>576</id>
+            <endpoints>[316.541, 384.556, 318.854, 356.832]</endpoints>
+        </segment>
+        <segment>
+            <id>577</id>
+            <endpoints>[438.137, 356.708, 478.101, 359.692]</endpoints>
+        </segment>
+        <segment>
+            <id>578</id>
+            <endpoints>[34.4048, 361.739, 26.8767, 361.94]</endpoints>
+        </segment>
+        <segment>
+            <id>579</id>
+            <endpoints>[211.973, 358.36, 202.572, 362.291]</endpoints>
+        </segment>
+        <segment>
+            <id>580</id>
+            <endpoints>[150.568, 363.606, 113.146, 359.194]</endpoints>
+        </segment>
+        <segment>
+            <id>581</id>
+            <endpoints>[200.691, 359.376, 200.446, 370.621]</endpoints>
+        </segment>
+        <segment>
+            <id>582</id>
+            <endpoints>[224.471, 359.592, 209.15, 366.366]</endpoints>
+        </segment>
+        <segment>
+            <id>583</id>
+            <endpoints>[416.846, 361.156, 425.632, 360.808]</endpoints>
+        </segment>
+        <segment>
+            <id>584</id>
+            <endpoints>[484.422, 360.083, 513.171, 362.596]</endpoints>
+        </segment>
+        <segment>
+            <id>585</id>
+            <endpoints>[34.6203, 365.85, 25.2126, 363.599]</endpoints>
+        </segment>
+        <segment>
+            <id>586</id>
+            <endpoints>[25.9713, 363.239, 21.6433, 376.372]</endpoints>
+        </segment>
+        <segment>
+            <id>587</id>
+            <endpoints>[73.4985, 366.032, 58.6871, 369.37]</endpoints>
+        </segment>
+        <segment>
+            <id>588</id>
+            <endpoints>[248.636, 362.83, 249.554, 368.305]</endpoints>
+        </segment>
+        <segment>
+            <id>589</id>
+            <endpoints>[386.893, 367.995, 363.264, 364.646]</endpoints>
+        </segment>
+        <segment>
+            <id>590</id>
+            <endpoints>[210.643, 368.246, 223.048, 366.365]</endpoints>
+        </segment>
+        <segment>
+            <id>591</id>
+            <endpoints>[433.111, 372.031, 387.918, 367.879]</endpoints>
+        </segment>
+        <segment>
+            <id>592</id>
+            <endpoints>[60.1317, 368.765, 41.6851, 373.659]</endpoints>
+        </segment>
+        <segment>
+            <id>593</id>
+            <endpoints>[153.12, 370.653, 136.743, 367.578]</endpoints>
+        </segment>
+        <segment>
+            <id>594</id>
+            <endpoints>[164.308, 367.513, 178.167, 368.975]</endpoints>
+        </segment>
+        <segment>
+            <id>595</id>
+            <endpoints>[331.529, 367.59, 327.046, 373.26]</endpoints>
+        </segment>
+        <segment>
+            <id>596</id>
+            <endpoints>[34.4073, 372.044, 48.1336, 369.42]</endpoints>
+        </segment>
+        <segment>
+            <id>597</id>
+            <endpoints>[379.328, 369.906, 469.392, 377.937]</endpoints>
+        </segment>
+        <segment>
+            <id>598</id>
+            <endpoints>[0.503719, 372.049, 7.02587, 372.604]</endpoints>
+        </segment>
+        <segment>
+            <id>599</id>
+            <endpoints>[186.034, 370.616, 185.79, 394.39]</endpoints>
+        </segment>
+        <segment>
+            <id>600</id>
+            <endpoints>[228.18, 371.33, 216.804, 372.221]</endpoints>
+        </segment>
+        <segment>
+            <id>601</id>
+            <endpoints>[339.063, 372.12, 347.948, 373.972]</endpoints>
+        </segment>
+        <segment>
+            <id>602</id>
+            <endpoints>[46.9904, 377.164, 68.1217, 375.58]</endpoints>
+        </segment>
+        <segment>
+            <id>603</id>
+            <endpoints>[468.109, 374.616, 443.133, 373.001]</endpoints>
+        </segment>
+        <segment>
+            <id>604</id>
+            <endpoints>[195.113, 394.446, 197.18, 373.034]</endpoints>
+        </segment>
+        <segment>
+            <id>605</id>
+            <endpoints>[69.1768, 377.396, 79.438, 374.607]</endpoints>
+        </segment>
+        <segment>
+            <id>606</id>
+            <endpoints>[389.337, 377.253, 400.674, 376.76]</endpoints>
+        </segment>
+        <segment>
+            <id>607</id>
+            <endpoints>[0.0324063, 382.902, 15.9725, 376.489]</endpoints>
+        </segment>
+        <segment>
+            <id>608</id>
+            <endpoints>[30.5881, 378.928, 46.9331, 377.578]</endpoints>
+        </segment>
+        <segment>
+            <id>609</id>
+            <endpoints>[181.387, 399.385, 181.707, 375.606]</endpoints>
+        </segment>
+        <segment>
+            <id>610</id>
+            <endpoints>[200.728, 375.632, 200.234, 383.181]</endpoints>
+        </segment>
+        <segment>
+            <id>611</id>
+            <endpoints>[337.221, 375.59, 336.734, 388.071]</endpoints>
+        </segment>
+        <segment>
+            <id>612</id>
+            <endpoints>[19.4177, 377.351, 30.5646, 377.967]</endpoints>
+        </segment>
+        <segment>
+            <id>613</id>
+            <endpoints>[220.871, 377.92, 207.285, 381.117]</endpoints>
+        </segment>
+        <segment>
+            <id>614</id>
+            <endpoints>[504.386, 377.864, 493.103, 377.389]</endpoints>
+        </segment>
+        <segment>
+            <id>615</id>
+            <endpoints>[314.509, 379.614, 306.263, 384.258]</endpoints>
+        </segment>
+        <segment>
+            <id>616</id>
+            <endpoints>[471.879, 378.079, 491.842, 379.77]</endpoints>
+        </segment>
+        <segment>
+            <id>617</id>
+            <endpoints>[165.624, 380.781, 134.376, 380.488]</endpoints>
+        </segment>
+        <segment>
+            <id>618</id>
+            <endpoints>[423.097, 381.008, 453.209, 383.236]</endpoints>
+        </segment>
+        <segment>
+            <id>619</id>
+            <endpoints>[11.7961, 382.189, 29.2774, 380.716]</endpoints>
+        </segment>
+        <segment>
+            <id>620</id>
+            <endpoints>[60.843, 386.848, 74.6015, 384.395]</endpoints>
+        </segment>
+        <segment>
+            <id>621</id>
+            <endpoints>[393.15, 386.67, 350.515, 381.542]</endpoints>
+        </segment>
+        <segment>
+            <id>622</id>
+            <endpoints>[23.1368, 385.352, 63.1701, 387.082]</endpoints>
+        </segment>
+        <segment>
+            <id>623</id>
+            <endpoints>[454.304, 383.792, 474.344, 385.916]</endpoints>
+        </segment>
+        <segment>
+            <id>624</id>
+            <endpoints>[479.307, 383.849, 500.605, 385.841]</endpoints>
+        </segment>
+        <segment>
+            <id>625</id>
+            <endpoints>[69.3688, 387.919, 80.6292, 387.871]</endpoints>
+        </segment>
+        <segment>
+            <id>626</id>
+            <endpoints>[83.0401, 388.661, 110.597, 389.971]</endpoints>
+        </segment>
+        <segment>
+            <id>627</id>
+            <endpoints>[359.384, 385.571, 373.177, 387.807]</endpoints>
+        </segment>
+        <segment>
+            <id>628</id>
+            <endpoints>[428.145, 390.428, 392.994, 386.951]</endpoints>
+        </segment>
+        <segment>
+            <id>629</id>
+            <endpoints>[110.385, 390.29, 176.834, 394.959]</endpoints>
+        </segment>
+        <segment>
+            <id>630</id>
+            <endpoints>[332.309, 423.149, 332.824, 386.871]</endpoints>
+        </segment>
+        <segment>
+            <id>631</id>
+            <endpoints>[444.245, 391.604, 433.179, 390.958]</endpoints>
+        </segment>
+        <segment>
+            <id>632</id>
+            <endpoints>[360.543, 391.953, 369.424, 391.328]</endpoints>
+        </segment>
+        <segment>
+            <id>633</id>
+            <endpoints>[370.53, 391.396, 423.154, 397.889]</endpoints>
+        </segment>
+        <segment>
+            <id>634</id>
+            <endpoints>[405.596, 390.854, 426.816, 393.583]</endpoints>
+        </segment>
+        <segment>
+            <id>635</id>
+            <endpoints>[488.198, 396.076, 444.47, 392.082]</endpoints>
+        </segment>
+        <segment>
+            <id>636</id>
+            <endpoints>[336.455, 393.118, 335.939, 424.38]</endpoints>
+        </segment>
+        <segment>
+            <id>637</id>
+            <endpoints>[428.072, 393.831, 456.847, 396.001]</endpoints>
+        </segment>
+        <segment>
+            <id>638</id>
+            <endpoints>[185.314, 395.579, 184.8, 413.137]</endpoints>
+        </segment>
+        <segment>
+            <id>639</id>
+            <endpoints>[195.097, 410.648, 195.584, 395.583]</endpoints>
+        </segment>
+        <segment>
+            <id>640</id>
+            <endpoints>[199.912, 395.619, 199.78, 411.868]</endpoints>
+        </segment>
+        <segment>
+            <id>641</id>
+            <endpoints>[503.073, 397.331, 489.336, 396.913]</endpoints>
+        </segment>
+        <segment>
+            <id>642</id>
+            <endpoints>[424.272, 399.869, 431.802, 398.839]</endpoints>
+        </segment>
+        <segment>
+            <id>643</id>
+            <endpoints>[433.132, 399.298, 494.414, 405.217]</endpoints>
+        </segment>
+        <segment>
+            <id>644</id>
+            <endpoints>[180.01, 416.901, 180.688, 400.576]</endpoints>
+        </segment>
+        <segment>
+            <id>645</id>
+            <endpoints>[513.274, 419.173, 500.674, 420.969]</endpoints>
+        </segment>
+        <segment>
+            <id>646</id>
+            <endpoints>[497.033, 421.546, 494.744, 437.467]</endpoints>
+        </segment>
+        <segment>
+            <id>647</id>
+            <endpoints>[510.042, 437.23, 512.933, 421.608]</endpoints>
+        </segment>
+        <segment>
+            <id>648</id>
+            <endpoints>[499.118, 440.232, 511.887, 439.625]</endpoints>
+        </segment>
+        <segment>
+            <id>649</id>
+            <endpoints>[522.026, 444.085, 533.44, 450.019]</endpoints>
+        </segment>
+        <segment>
+            <id>650</id>
+            <endpoints>[521.129, 451.22, 522.909, 445.976]</endpoints>
+        </segment>
+        <segment>
+            <id>651</id>
+            <endpoints>[87.5615, 457.378, 58.8207, 479.048]</endpoints>
+        </segment>
+        <segment>
+            <id>652</id>
+            <endpoints>[532.403, 478.139, 532.499, 465.62]</endpoints>
+        </segment>
+        <segment>
+            <id>653</id>
+            <endpoints>[327.038, 471.554, 320.549, 472.691]</endpoints>
+        </segment>
+        <segment>
+            <id>654</id>
+            <endpoints>[329.413, 475.469, 306.828, 474.864]</endpoints>
+        </segment>
+        <segment>
+            <id>655</id>
+            <endpoints>[366.913, 476.733, 341.859, 477.14]</endpoints>
+        </segment>
+        <segment>
+            <id>656</id>
+            <endpoints>[382.053, 477.804, 375.684, 474.269]</endpoints>
+        </segment>
+    </segments>
+    <clusters numberOfClusters="90">
+        <cluster>[378, 61]</cluster>
+        <cluster>[12]</cluster>
+        <cluster>[239, 11]</cluster>
+        <cluster>[643, 642, 633, 632, 580]</cluster>
+        <cluster>[635, 641, 631, 621, 628, 566, 565]</cluster>
+        <cluster>[623, 618, 606, 601, 551]</cluster>
+        <cluster>[616, 597, 557, 548]</cluster>
+        <cluster>[505, 499, 520, 523, 556]</cluster>
+        <cluster>[575, 569, 563, 555, 542, 535]</cluster>
+        <cluster>[532, 527, 583]</cluster>
+        <cluster>[614, 603, 591, 589, 552]</cluster>
+        <cluster>[152, 166, 142]</cluster>
+        <cluster>[140, 139, 133, 118]</cluster>
+        <cluster>[131, 227, 309, 332]</cluster>
+        <cluster>[296, 164]</cluster>
+        <cluster>[351, 321, 298, 245, 177, 206, 277]</cluster>
+        <cluster>[174, 163, 170, 160, 157, 148, 132]</cluster>
+        <cluster>[153, 135]</cluster>
+        <cluster>[158, 172]</cluster>
+        <cluster>[181, 257, 349]</cluster>
+        <cluster>[350, 310, 178]</cluster>
+        <cluster>[262, 199, 359]</cluster>
+        <cluster>[244, 228, 217]</cluster>
+        <cluster>[210, 224, 215]</cluster>
+        <cluster>[189, 192, 195]</cluster>
+        <cluster>[159, 231, 312, 338, 397]</cluster>
+        <cluster>[418, 415, 409, 402]</cluster>
+        <cluster>[374, 401]</cluster>
+        <cluster>[233, 169]</cluster>
+        <cluster>[242, 272, 347]</cluster>
+        <cluster>[284, 285]</cluster>
+        <cluster>[521, 474, 567, 553, 579]</cluster>
+        <cluster>[644, 609, 484]</cluster>
+        <cluster>[638, 599, 485]</cluster>
+        <cluster>[639, 604, 573, 472]</cluster>
+        <cluster>[640, 610, 581, 539, 473]</cluster>
+        <cluster>[492, 462, 506, 515]</cluster>
+        <cluster>[445, 495, 394]</cluster>
+        <cluster>[398, 437]</cluster>
+        <cluster>[360, 453]</cluster>
+        <cluster>[454, 405, 358]</cluster>
+        <cluster>[451, 533]</cluster>
+        <cluster>[524, 448]</cluster>
+        <cluster>[447, 434]</cluster>
+        <cluster>[340, 366, 385, 403, 414]</cluster>
+        <cluster>[449, 440, 421]</cluster>
+        <cluster>[464, 459, 444, 432]</cluster>
+        <cluster>[479, 450, 435]</cluster>
+        <cluster>[443, 460, 491, 436]</cluster>
+        <cluster>[456, 406, 339]</cluster>
+        <cluster>[487, 576]</cluster>
+        <cluster>[475]</cluster>
+        <cluster>[476, 630]</cluster>
+        <cluster>[636, 611, 477]</cluster>
+        <cluster>[496, 442]</cluster>
+        <cluster>[438, 500]</cluster>
+        <cluster>[540, 528, 507, 488]</cluster>
+        <cluster>[373, 247]</cluster>
+        <cluster>[237, 234, 236]</cluster>
+        <cluster>[254, 392]</cluster>
+        <cluster>[193, 220, 279, 381]</cluster>
+        <cluster>[241, 293, 329]</cluster>
+        <cluster>[251, 288, 328]</cluster>
+        <cluster>[252, 213]</cluster>
+        <cluster>[407, 502]</cluster>
+        <cluster>[410]</cluster>
+        <cluster>[428, 386]</cluster>
+        <cluster>[504, 518]</cluster>
+        <cluster>[546, 554]</cluster>
+        <cluster>[525, 426, 191, 156]</cluster>
+        <cluster>[149, 188, 517]</cluster>
+        <cluster>[512, 184, 150]</cluster>
+        <cluster>[96, 69, 57, 104, 110]</cluster>
+        <cluster>[88, 113, 108, 55]</cluster>
+        <cluster>[71, 114]</cluster>
+        <cluster>[102, 67, 56]</cluster>
+        <cluster>[50, 0]</cluster>
+        <cluster>[72, 46, 23, 17]</cluster>
+        <cluster>[75, 87, 59]</cluster>
+        <cluster>[54, 68, 73, 78]</cluster>
+        <cluster>[79, 37, 7]</cluster>
+        <cluster>[43, 41, 34, 15, 9, 10]</cluster>
+        <cluster>[8, 31, 40]</cluster>
+        <cluster>[66, 47, 20]</cluster>
+        <cluster>[63, 60, 45, 49]</cluster>
+        <cluster>[83, 92]</cluster>
+        <cluster>[82, 77, 74]</cluster>
+        <cluster>[24, 19]</cluster>
+        <cluster>[32, 28, 33]</cluster>
+        <cluster>[248, 316, 439]</cluster>
+    </clusters>
+</segment_clustering>
