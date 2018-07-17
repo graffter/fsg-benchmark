@@ -3,7 +3,7 @@
 
 In IROS 2018 we presented a new approach to line detection based on the grouping of line segments. In order to test the performance of our method, we have grouped by hand which of the LSD segments in the York Urban Dataset (YUD) belongs to the same image line. That way it is possible to use these labels to evaluate any segment gouping algorithm. In this repo we make public this dataset, if you use it in your research you have to reference our paper:
 
-> Suárez, I., Muñoz, E., Buenaposada, J. M., Baumela. L. (2018, October). FSG: A statistical approach to line detection via fast segments grouping. In IROS 2018.
+> Iago Suárez, Enrique Muñoz, José M. Buenaposada, Luis Baumela. "FSG: A statistical approach to line detection via fast segments grouping". IROS 2018.
 
 
 ## Data base structure
