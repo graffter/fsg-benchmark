@@ -1,14 +1,13 @@
 # fsg-benchmark
 ## Benchmark of the article "FSG: A statistical approach to line detection via fast segments grouping"
 
-In the article:
+In IROS 2018 we presented a new approach to line detection based on the grouping of line segments. In order to test the performance of our method, we have hand-labeled the LSD segments detected in the York Urban Dataset (YUD) in groups. That way it is possible to use these labels to evaluate any segment gouping algorithm. In this repo we make public this dataset, if you use it in your research you have to reference our paper:
 
-> Suárez, I., Muñoz, E., Buenaposada, J. M., Baumela. L. (2018, October). FSG: A statistical approach to line detection via fast segments grouping. In IROS (pp. ???-???).
+> Suárez, I., Muñoz, E., Buenaposada, J. M., Baumela. L. (2018, October). FSG: A statistical approach to line detection via fast segments grouping. In IROS 2018.
 
-We have presented a new approach to line detection based on the grouping of line segments. In order to prove the superiority of our method, we have hand-labeled the LSD segments detected in the York Urban Dataset (YUD) in groups, in such a way that it is possible to use these labels to evaluate a segment gouping approach.
 
 ## Data base structure
-The data base is divided in two directories:
+The dataset is divided in two directories:
 
 * **YUDSegmentGroups**: This directory contains the information of the segments detected on all the Dataset images and it tells you which of those segments are aligned in the image.
 * **YUDBadSegments**: This directory contains the data used in the experiment "Validation of segment clusters" where we evaluate the problem of segment grouping as a binary classification problem. 
