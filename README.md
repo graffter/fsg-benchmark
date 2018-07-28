@@ -6,7 +6,7 @@ In IROS 2018 we presented a new approach to line detection based on the grouping
 > Iago Suárez, Enrique Muñoz, José M. Buenaposada, Luis Baumela. "FSG: A statistical approach to line detection via fast segments grouping". IROS 2018.
 
 
-## Data base structure
+## Dataset structure
 The dataset is divided in two directories:
 
 * **YUDSegmentGroups**: This directory contains the information of the segments detected on all the Dataset images and it tells you which of those segments are aligned in the image.
